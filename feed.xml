@@ -3,9 +3,9 @@
 <channel>
 <title>The Brief — Adam's News</title>
 <link>https://vertexks.github.io/News-brief/</link>
-<description>Every story from Adam's three daily briefs (9 AM / 5 PM / 10 PM CT) as its own item, linking straight to the original article.</description>
+<description>Every story from Adam's three daily briefs (9 AM / 5 PM / 10 PM CT) as its own item, readable right in your feed reader, with a link to the original article.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 23:27:42 -0500</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 23:49:28 -0500</lastBuildDate>
 <atom:link href="https://vertexks.github.io/News-brief/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Zelensky pushes for trilateral talks &quot;no later than early November&quot; — sooner than Moscow&#x27;s &quot;after Nov. 10&quot;</title>
@@ -14,7 +14,15 @@
 <pubDate>Wed, 21 Oct 2026 22:00:00 -0500</pubDate>
 <category>Night brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: reuters.com</description>
+<description>After the St. Petersburg readout landed in the evening brief (Putin agreed &quot;in principle&quot; to trilateral talks after Nov. 10, at technical level), Zelensky told journalists on his way back to Kyiv that Ukraine supports a US proposal for three-way talks at negotiator level &quot;as soon as possible, preferably no later than early November.&quot; He said Kyiv has feedback that Russia supports a trilateral meeting at negotiating-team level, and that the US &quot;will do everything to ensure that the meeting takes place as early as possible, in November.&quot; He also said Kyiv supports &quot;any proposals for a ceasefire, an end to the war, an energy ceasefire as well as humanitarian initiatives.&quot; So the two sides are now publicly aligned on the format — but not yet on the date, and not on whether Putin himself ever sits at the table. Reuters Source: reuters.com.</description>
+</item>
+<item>
+<title>Poland: quiet</title>
+<guid isPermaLink="false">brief-2026-10-21-2200-02</guid>
+<pubDate>Wed, 21 Oct 2026 21:59:00 -0500</pubDate>
+<category>Night brief</category>
+<category>1. Ukraine/Russia + Poland</category>
+<description>---</description>
 </item>
 <item>
 <title>US orders diplomats and families out of Saudi Arabia as Houthi strikes hit an airport and an oilfield in one day</title>
@@ -23,7 +31,7 @@
 <pubDate>Wed, 21 Oct 2026 21:58:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: devdiscourse.com</description>
+<description>The State Department ordered the departure of non-emergency US government employees and their family members from Saudi Arabia on Wednesday, and US officials told Reuters it plans to withdraw family members from a number of other US missions across the Gulf. Spokesman Tommy Pigott cited Houthi attacks &quot;on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions.&quot; The order came after two deadly attacks Wednesday: one person killed and eight injured at Dammam&#x27;s King Fahd International Airport, and two killed at Aramco&#x27;s Shaybah oilfield (see below). The US Embassy in Riyadh also issued a security alert warning of possible further Houthi attacks. This is the sharpest US step yet in the Saudi-Houthi escalation — a formal ordered departure, not just a travel warning. Reuters via Devdiscourse · Reuters (Dammam) Source: devdiscourse.com.</description>
 </item>
 <item>
 <title>Dammam airport attack kills 1, injures 8 — the second civilian airport hit in the Houthi campaign</title>
@@ -32,7 +40,7 @@
 <pubDate>Wed, 21 Oct 2026 21:57:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>Saudi Arabia&#x27;s civil aviation authority said an attack on King Fahd International Airport in Dammam on Wednesday evening killed one resident and injured eight others, with material damage still being assessed. It follows the deadly Riyadh airport strikes earlier this month and extends the Houthi airport campaign to the Gulf coast city of Dammam. Attribution details beyond the Houthi campaign context were not specified in the Saudi statement. Reuters Source: reuters.com.</description>
 </item>
 <item>
 <title>Follow-up: Shaybah deaths now confirmed by the Saudi Energy Ministry — 2 killed, 2 injured by falling debris</title>
@@ -41,7 +49,7 @@
 <pubDate>Wed, 21 Oct 2026 21:56:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: boereport.com</description>
+<description>What the evening brief flagged as single-source is now confirmed: Saudi air defences intercepted a drone targeting Aramco&#x27;s Shaybah oilfield on Wednesday, and falling debris killed two residents — one Filipino, one Nepali — and injured two more, one Pakistani and one Indian. Debris set a contractor&#x27;s vehicle on fire outside the facility&#x27;s perimeter; the ministry said operations at the field were not affected. BOE Report (Reuters wire) Source: boereport.com.</description>
 </item>
 <item>
 <title>Oil climbs again on the departure order — Brent back above $110</title>
@@ -50,7 +58,7 @@
 <pubDate>Wed, 21 Oct 2026 21:55:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>Brent rose $1.29 (1.2%) to $110.11 in early Thursday trading after settling largely unchanged Wednesday, with WTI up to $98.12, as the US departure order and the Dammam/Shaybah attacks renewed supply fears. Kpler data cited by Reuters counts at least 18 shipping attacks over the past two weeks, and LSEG analysts warn Iran is now targeting tankers well beyond the strait, into the Gulf of Oman, threatening loadings and ship-to-ship transfers. Reuters Source: reuters.com.</description>
 </item>
 <item>
 <title>Explosions heard in Sirik, southern Iran — origin unknown, developing</title>
@@ -59,7 +67,7 @@
 <pubDate>Wed, 21 Oct 2026 21:54:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>Iranian media reported explosions heard in Sirik in southern Iran on Wednesday, saying the nature and origin were unknown. No claim or official explanation had surfaced by brief time — treat as developing, not as a confirmed strike. Reuters --- Source: reuters.com.</description>
 </item>
 <item>
 <title>Fortnite returns to Apple&#x27;s Australian App Store on Thursday after court-ordered iOS opening</title>
@@ -68,7 +76,7 @@
 <pubDate>Wed, 21 Oct 2026 21:53:00 -0500</pubDate>
 <category>Night brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: wixx.com</description>
+<description>Epic Games said Wednesday that Fortnite will return to Apple&#x27;s App Store in Australia on Thursday, after the country&#x27;s federal court found Apple violated competition law and ordered it to open up iOS. A related ruling formalized that Apple must open its iOS ecosystem to rival app distribution and payment systems for Australian account holders, with most changes taking effect by March 1, 2027 — but Epic lost its bid for global remedies, and the court declined to find any particular developer or user was overcharged, leaving compensation unresolved. Reuters via WIXX · MLex Source: wixx.com.</description>
 </item>
 <item>
 <title>Google brings conversational Gemini navigation to Apple CarPlay in the US</title>
@@ -77,7 +85,15 @@
 <pubDate>Wed, 21 Oct 2026 21:52:00 -0500</pubDate>
 <category>Night brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: aidailypost.com</description>
+<description>Google rolled out conversational Gemini inside Google Maps on Apple CarPlay to US users on Thursday, nearly a year after the assistant landed on Android Auto. Drivers can talk to Gemini directly in Maps — multi-step questions like restaurant suggestions followed by directions avoiding toll roads, plus hands-free traffic reports. Global availability is promised but undated, and — unlike Wednesday&#x27;s Android Auto rollout — there&#x27;s no mention yet of the Personal Intelligence features that pull from Gmail, Calendar and Photos. AI Daily Post Source: aidailypost.com.</description>
+</item>
+<item>
+<title>Nvidia: quiet overnight</title>
+<guid isPermaLink="false">brief-2026-10-21-2200-10</guid>
+<pubDate>Wed, 21 Oct 2026 21:51:00 -0500</pubDate>
+<category>Night brief</category>
+<category>3. Tech: Apple, Nvidia, Google</category>
+<description>---</description>
 </item>
 <item>
 <title>Nvidia&#x27;s DeepStream 9.2 puts more of the video-analytics stack in the open</title>
@@ -86,7 +102,7 @@
 <pubDate>Wed, 21 Oct 2026 21:50:00 -0500</pubDate>
 <category>Night brief</category>
 <category>4. Open source</category>
-<description>Source: forums.developer.nvidia.com</description>
+<description>DeepStream 9.2 shipped Wednesday with a bigger open-source footprint: the monorepo now includes 12 GStreamer elements and 30+ libraries as source, including the nvv4l2 codecs and Re-ID vision and text embedding plugins. The release adds intelligent frame selection (send only the most relevant frames to vision-language models), an active-learning pipeline with runtime model switching, and GB300 support plus JetPack 7.2.1 for Jetson Thor/Orin. NVIDIA Developer Forums Source: forums.developer.nvidia.com.</description>
 </item>
 <item>
 <title>Storytold&#x27;s Rust Office and CAD clones keep climbing — Wordcraft ~15,300 stars, CADcraft ~6,300</title>
@@ -95,7 +111,7 @@
 <pubDate>Wed, 21 Oct 2026 21:49:00 -0500</pubDate>
 <category>Night brief</category>
 <category>4. Open source</category>
-<description>Source: gitdiscover.org</description>
+<description>The clean-room Rust reimplementations from the same team behind the earlier ArtCraft Adobe clones are still trending: Wordcraft (Microsoft Word alternative) is at roughly 15,300 stars after gaining ~291 in a day, and CADcraft (AutoCAD-style drafting) at roughly 6,300 after ~168 in a day. Both are early-stage and worth watching as alternatives, not yet as replacements. GitDiscover --- Source: gitdiscover.org.</description>
 </item>
 <item>
 <title>Follow-up: PHP2Shell exploitation is now being observed in the wild — still no KEV listing</title>
@@ -104,7 +120,7 @@
 <pubDate>Wed, 21 Oct 2026 21:48:00 -0500</pubDate>
 <category>Night brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: cyberdaily.au</description>
+<description>The evening brief&#x27;s patch-now warning got sharper overnight: watchTowr says it is now observing in-the-wild exploitation attempts against the PHP2Shell flaws (CVE-2026-109618 and CVE-2026-109619, both CVSS 9.2), with a variety of hastily built proof-of-concept exploits hitting its sensors — none successful yet, in its assessment, but &quot;we don&#x27;t expect that will last long.&quot; CISA issued an overnight alert urging immediate patching to 8.5.12 / 8.4.27 / 8.3.36 / 8.2.35, and Australia&#x27;s cyber centre issued an urgent warning late Oct. 21. The scale problem: roughly 79–80% of PHP sites run versions that no longer receive support, so for them there is no official patch — only upgrade, isolation, or a WAF as a stopgap. Neither CVE was in CISA&#x27;s KEV catalog in the reports checked. Cyber Daily · SC Media Source: cyberdaily.au.</description>
 </item>
 <item>
 <title>Follow-up: LiteLLM fallout — check for two telltale files if you installed 1.107.0</title>
@@ -113,7 +129,7 @@
 <pubDate>Wed, 21 Oct 2026 21:47:00 -0500</pubDate>
 <category>Night brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: pivotnews.ai</description>
+<description>More detail on Wednesday&#x27;s hijacked LiteLLM release: security researchers say anyone who installed or ran 1.107.0 should check for /tmp/.pc_once_* (meaning the credential exfiltration already fired) and /tmp/remote_code_loader.lock (meaning the remote-code loader daemon ran or is still running). LiteLLM — an open-source gateway routing to 100+ model providers, at roughly 23 million weekly downloads — pulled the release within hours, and the last safe release remains 1.106.2. If either file is present, treat every credential the machine could reach as compromised and rotate. Pivot News · Tesla News Wire --- Source: pivotnews.ai.</description>
 </item>
 <item>
 <title>Russell Brand trial: final complainant&#x27;s evidence concludes — jury sent home until Thursday</title>
@@ -122,7 +138,55 @@
 <pubDate>Wed, 21 Oct 2026 21:46:00 -0500</pubDate>
 <category>Night brief</category>
 <category>6. Major court cases</category>
-<description>Source: thetimes.com</description>
+<description>At Southwark Crown Court on Wednesday, the final complainant (Woman 5) completed her evidence. Under cross-examination she maintained she did not consent to the alleged 2009 anal rape, and on re-examination by prosecutor Riel Karmy-Jones KC she answered &quot;Absolutely not&quot; when asked whether having anal sex with Brand was a decision she made — &quot;That was the whole reason for going to the police.&quot; She told jurors Brand &quot;acted like nothing had happened&quot; afterward. The jury was sent home until Thursday morning. Brand denies all seven charges (3 rapes, 3 sexual assaults, 1 indecent assault, 1999–2009); the trial continues. The Times live blog Source: thetimes.com.</description>
+</item>
+<item>
+<title>Netanyahu trial: quiet in English-language coverage</title>
+<guid isPermaLink="false">brief-2026-10-21-2200-16</guid>
+<pubDate>Wed, 21 Oct 2026 21:45:00 -0500</pubDate>
+<category>Night brief</category>
+<category>6. Major court cases</category>
+<description>Quiet: FTC v. Amazon Prime jury trial (ongoing, no fresh developments), FTC v. Amazon antitrust (trial March 29, 2027), Murdaugh (next hearing Nov 13). ---</description>
+</item>
+<item>
+<title>US departure from Saudi Arabia</title>
+<guid isPermaLink="false">brief-2026-10-21-2200-17</guid>
+<pubDate>Wed, 21 Oct 2026 21:44:00 -0500</pubDate>
+<category>Night brief</category>
+<category>Watch Thursday</category>
+<description></description>
+</item>
+<item>
+<title>Trilateral talks date</title>
+<guid isPermaLink="false">brief-2026-10-21-2200-18</guid>
+<pubDate>Wed, 21 Oct 2026 21:43:00 -0500</pubDate>
+<category>Night brief</category>
+<category>Watch Thursday</category>
+<description>- PHP2Shell: exploitation attempts are now live in honeypots — watch for KEV listing and first confirmed compromises</description>
+</item>
+<item>
+<title>LiteLLM victims</title>
+<guid isPermaLink="false">brief-2026-10-21-2200-19</guid>
+<pubDate>Wed, 21 Oct 2026 21:42:00 -0500</pubDate>
+<category>Night brief</category>
+<category>Watch Thursday</category>
+<description></description>
+</item>
+<item>
+<title>Sirik explosions</title>
+<guid isPermaLink="false">brief-2026-10-21-2200-20</guid>
+<pubDate>Wed, 21 Oct 2026 21:41:00 -0500</pubDate>
+<category>Night brief</category>
+<category>Watch Thursday</category>
+<description></description>
+</item>
+<item>
+<title>iPhone Duo launch Friday Oct. 23</title>
+<guid isPermaLink="false">brief-2026-10-21-2200-21</guid>
+<pubDate>Wed, 21 Oct 2026 21:40:00 -0500</pubDate>
+<category>Night brief</category>
+<category>Watch Thursday</category>
+<description>- Russell Brand trial continues Thursday; Mandelblit testimony continues through Thursday ---</description>
 </item>
 <item>
 <title>Putin agrees &quot;in principle&quot; to trilateral talks after Nov. 10 — but not at the leaders&#x27; table</title>
@@ -131,7 +195,7 @@
 <pubDate>Wed, 21 Oct 2026 17:00:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: cnn.com</description>
+<description>The readout from the Witkoff–Putin meeting finally landed this afternoon: Kremlin foreign-policy adviser Yuri Ushakov said Putin agreed &quot;in principle&quot; that trilateral US–Russia–Ukraine talks will continue after Nov. 10, focused on &quot;building a security system for Russia and Ukraine after the conflict ends.&quot; A US official added the talks would happen &quot;at the technical level&quot; — meaning Putin himself won&#x27;t sit down with Trump or Zelensky. Both sides accepted the trilateral format (Ukraine in Oslo Tuesday, Russia in St. Petersburg today), and the US readout cited &quot;progress&quot; on a post-war economic plan and European security architecture. The catch, per CNN: no indication Russia has budged on its maximalist positions — full Donbas, a shrunken Ukrainian military, no NATO. Russian envoy Kirill Dmitriev separately said the US–Russia diesel deal goes ahead despite European criticism. CNN · NY Post Source: cnn.com.</description>
 </item>
 <item>
 <title>Zelensky: &quot;freeze and stop&quot; — he&#x27;d accept a deal that freezes the current front lines</title>
@@ -140,7 +204,7 @@
 <pubDate>Wed, 21 Oct 2026 16:59:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: nypost.com</description>
+<description>In a Fox &amp; Friends interview Wednesday morning, Zelensky said yes to a peace deal that freezes the fighting where it stands, with Ukraine keeping &quot;75% or more&quot; of its territory: &quot;Right now we have to freeze, and I think this is (the) real way to end this war. We call it a ceasefire… freeze and stop.&quot; He called that the minimum needed from Russia, followed by US and European security guarantees so &quot;the occupation will not return.&quot; He drew a line at giving up the Donbas — &quot;not fair&quot; — and at any deal negotiated without Ukraine (&quot;don&#x27;t speak about us without us&quot;). It&#x27;s a notable shift from his long-held rejection of frozen conflicts, and it landed hours before Putin&#x27;s own &quot;in principle&quot; answer. NY Post · CNN Source: nypost.com.</description>
 </item>
 <item>
 <title>Hubbard freed and heading to a Texas military hospital</title>
@@ -149,7 +213,15 @@
 <pubDate>Wed, 21 Oct 2026 16:58:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: nypost.com</description>
+<description>The one concrete outcome of the St. Petersburg meeting: 74-year-old retired teacher Stephen Hubbard, detained since April 2022 and sentenced as an alleged mercenary, was released and photographed with Witkoff at the airport. CBS reported he will fly to Texas for medical treatment at a military hospital; he is in poor health after more than four years in Russian custody. NY Post Source: nypost.com.</description>
+</item>
+<item>
+<title>Poland: quiet</title>
+<guid isPermaLink="false">brief-2026-10-21-1700-04</guid>
+<pubDate>Wed, 21 Oct 2026 16:57:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>1. Ukraine/Russia + Poland</category>
+<description>---</description>
 </item>
 <item>
 <title>Iran–US deadlock, stated plainly by both sides: no talks under blockade, no relief while ships are attacked</title>
@@ -158,7 +230,7 @@
 <pubDate>Wed, 21 Oct 2026 16:56:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: military.com</description>
+<description>Iranian President Pezeshkian said Wednesday the US &quot;cannot expect dialogue&quot; while imposing a blockade and issuing threats. Foreign Minister Araghchi, in a Financial Times op-ed, said Iran would give diplomacy &quot;another chance&quot; if it sees &quot;strong evidence of a sincere desire&quot; for a just solution — and urged a return to the June Islamabad memorandum, under which Iran would reopen the strait and the US would lift the blockade, release frozen oil funds and remove sanctions. Washington isn&#x27;t biting: Secretary of State Rubio told US media a deal would be &quot;extremely difficult&quot; and economic pressure continues until Iran stops targeting commercial shipping. Indirect backchannels via Pakistan and Qatar are reportedly still active, but nothing is confirmed. Bloomberg via Military.com · AnewZ Source: military.com.</description>
 </item>
 <item>
 <title>Shaybah oilfield: Saudi defences intercepted a drone — and one outlet reports two killed</title>
@@ -167,7 +239,7 @@
 <pubDate>Wed, 21 Oct 2026 16:55:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: for-ex.news</description>
+<description>Saudi Arabia&#x27;s Energy Ministry said air defences intercepted a drone attempting to hit a facility at Aramco&#x27;s Shaybah oilfield in the Eastern Region. A breaking-news outlet separately reported two people killed in a drone attack on Shaybah with no operational impact — that death toll is single-source and unconfirmed, so treat it as developing. Shaybah is one of the sites the Houthis claimed to have hit Monday; Saudi sources denied those claims, saying the facilities are intact. for-ex.news (intercept + reported deaths) Source: for-ex.news.</description>
 </item>
 <item>
 <title>Oil: Brent holding near $110 as attacks spread beyond the strait</title>
@@ -176,7 +248,7 @@
 <pubDate>Wed, 21 Oct 2026 16:54:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>Brent rose to $109.64 early Wednesday (WTI $98.58) after settling Tuesday at $108.79, off a five-month high of $111.99. LSEG analysts note attacks have expanded beyond Hormuz into the Gulf of Oman, threatening loadings outside the Gulf and the ship-to-ship transfers that have kept some exports moving. One single-source report says the US authorized offloading cargo from some blocked vessels, which eased prices late in the day — unconfirmed, developing. Reuters --- Source: reuters.com.</description>
 </item>
 <item>
 <title>Google Cloud&#x27;s Vera Rubin A5X instances go live — general availability in November, up to 960,000 Rubin GPUs planned</title>
@@ -185,7 +257,7 @@
 <pubDate>Wed, 21 Oct 2026 16:53:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: unite.ai</description>
+<description>Announced at GTC Berlin on Wednesday: the first live A5X instances, built on Nvidia Vera Rubin NVL72 racks with ConnectX-9 SuperNICs, Google&#x27;s Virgo Network and fourth-generation liquid cooling, are running with an initial customer — Ineffable Intelligence, the London lab founded by AlphaGo creator David Silver, which is using them for reinforcement-learning systems that learn from experience. General availability comes next month, with expansion to Europe planned, and Google Cloud says it plans to scale Vera Rubin infrastructure to as many as 960,000 GPUs across multiple sites (a stated plan, not installed capacity). WPP also demoed a creative-agent reference architecture on A5X with Nvidia Nemotron models and OpenShell, with multi-node workloads running on a single instance in initial tests. Unite.AI · Tesla News Wire Source: unite.ai.</description>
 </item>
 <item>
 <title>Apple confirms &quot;limited&quot; iPhone Duo walk-in stock for Friday — and Gurman calls the preorder timing a &quot;major mistake&quot;</title>
@@ -194,7 +266,7 @@
 <pubDate>Wed, 21 Oct 2026 16:52:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: images.macrumors.com</description>
+<description>Apple told MacRumors and 9to5Mac that stores will have limited Duo units for walk-in customers on Friday&#x27;s Oct. 23 launch in the US, Australia, Austria, Belgium, Canada, Mexico, Germany, the Netherlands, Singapore, Spain, Sweden, Switzerland, Türkiye, the UK and most stores in Italy (Macao: launch-day walk-ins only, limited). No walk-in sales in France, China, Hong Kong, India, Japan, Malaysia, South Korea, Taiwan, Thailand or the UAE — reservation-only pickup there. Apple expects the limited stock to sell out quickly; AppleInsider reports new pre-orders are now showing January 25, 2027 delivery. Bloomberg&#x27;s Mark Gurman, in his Power On newsletter, called launching pre-orders Oct. 16 despite known &quot;severe supply constraints&quot; a &quot;major mistake.&quot; MacRumors · 9to5Mac · AppleInsider --- Source: images.macrumors.com.</description>
 </item>
 <item>
 <title>Follow-up: DeepInfer keeps climbing — ~17,500 stars by Wednesday evening Berlin time</title>
@@ -203,7 +275,7 @@
 <pubDate>Wed, 21 Oct 2026 16:51:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>4. Open source</category>
-<description>Source: djcroman.com</description>
+<description>DeepSeek&#x27;s open-sourced production inference engine, covered in the morning brief at 14,601 stars, was at roughly 17,500 stars and ~1,800 forks by Wednesday evening, per a GitHub API check cited in an independent write-up. The caveats from the morning brief still stand: no independent benchmarks yet, and the release omits a KV-cache system, prefill/decode disaggregation and replica load balancing. djcroman Source: djcroman.com.</description>
 </item>
 <item>
 <title>Railtracks Swift ADK goes open source under MIT</title>
@@ -212,7 +284,7 @@
 <pubDate>Wed, 21 Oct 2026 16:50:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>4. Open source</category>
-<description>Source: kalkine.ca</description>
+<description>Railtown AI open-sourced its Railtracks Swift agent-development kit on GitHub under the MIT licence, extending its existing Python framework into Apple&#x27;s native environment. It supports agent reasoning, tool invocation, structured outputs, multi-agent orchestration, execution tracing and guardrails, with OpenAI, Anthropic and Google Gemini providers plus on-device Apple Intelligence. Company announcement — adoption is the thing to watch, not the press release. Kalkine --- Source: kalkine.ca.</description>
 </item>
 <item>
 <title>PHP2Shell: emergency patches out today for two critical PHP flaws — NSA, FBI and CISA say patch now or take systems offline</title>
@@ -221,7 +293,7 @@
 <pubDate>Wed, 21 Oct 2026 16:49:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: defenseone.com</description>
+<description>PHP released fixes Wednesday (8.5.12, 8.4.27, 8.3.36, 8.2.35) for CVE-2026-109618 (RCE via out-of-memory corruption) and CVE-2026-109619 (RCE via stale global state), both CVSS 9.2, both allowing unauthenticated remote code execution. The release was pulled forward a day after details leaked on Hacker News ahead of the planned Oct. 22 disclosure. Apache mod_php is at highest risk — PHP says a demonstrated exploit triggers before application code runs — but FPM, CGI, FrankenPHP and LiteSpeed are also at risk. NSA, FBI and CISA urged immediate patching or taking unpatched systems offline; Unit 42 counts 22.6M+ internet-exposed instances potentially vulnerable. Cloudflare says it is already seeing early attack attempts and has deployed WAF rules; watchTowr honeypots logged exploitation attempts; several European government sites went offline to patch. CISA had not observed exploitation as of publication, and neither CVE is on KEV yet — but exploit code is circulating publicly, so this is a patch-now, not patch-soon, item. Defense One · SC Media · Tenable FAQ Source: defenseone.com.</description>
 </item>
 <item>
 <title>LiteLLM 1.107.0 was hijacked on PyPI for ~1¾ hours — a credential stealer in one of AI&#x27;s most-used plumbing packages</title>
@@ -230,7 +302,7 @@
 <pubDate>Wed, 21 Oct 2026 16:48:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: docs.litellm.ai</description>
+<description>BerriAI confirmed its LiteLLM 1.107.0 release, published to PyPI and Docker on Wednesday, &quot;contained compiled malware which steals credentials and loads remote-code execution tools.&quot; Attackers used three engineers&#x27; GitHub accounts via apparently stolen GitHub CLI tokens, overrode branch protection, and built the release from a lookalike &quot;Berri-AI&quot; copy of the repo. Seven malicious wheels were live on PyPI 11:39–13:23 UTC; tainted Docker images (including latest) stayed up until 14:20 UTC. The payload steals SSH keys, cloud credentials, CI/CD secrets, browser passwords and LLM provider keys, and runs on any Python startup — even without importing litellm. Wiz already observed stolen AWS credentials being validated from 16:20 UTC, consistent with LLMjacking. If you installed or ran 1.107.0, rotate everything it could have touched; 1.106.2 and the release candidates are clean. This is LiteLLM&#x27;s second hijack this year. BerriAI incident report · Wiz · Socket --- Source: docs.litellm.ai.</description>
 </item>
 <item>
 <title>Russell Brand trial: final complainant&#x27;s recorded interview played — &quot;you treated me like an animal&quot;</title>
@@ -239,7 +311,55 @@
 <pubDate>Wed, 21 Oct 2026 16:47:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>6. Major court cases</category>
-<description>Source: devdiscourse.com</description>
+<description>At Southwark Crown Court on Wednesday, jurors heard the recorded police interview of the final complainant, who alleges Brand anally raped her at his home in 2009 after consensual sex began. She described a later text exchange, about six months after the alleged incident, in which she told him he had &quot;treated her like an animal&quot; and he replied &quot;I&#x27;m sorry&quot; — and said she was left feeling &quot;really degraded&quot; and &quot;like a piece of meat.&quot; Brand&#x27;s lawyer put it to her that she had agreed to the act, suggesting she was &quot;young, impressionable and obsessed&quot; with him. Brand denies all seven charges (3 rapes, 3 sexual assaults, 1 indecent assault, 1999–2009); the ~6-week trial continues. Reuters via Devdiscourse · The Times live blog Source: devdiscourse.com.</description>
+</item>
+<item>
+<title>Netanyahu trial: Mandelblit testimony continued into day 4, no major new English-language developments</title>
+<guid isPermaLink="false">brief-2026-10-21-1700-15</guid>
+<pubDate>Wed, 21 Oct 2026 16:46:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>6. Major court cases</category>
+<description>A Hebrew-language summary indicates the fourth day of former AG Mandelblit&#x27;s defense testimony proceeded Wednesday, covering investigator conduct and authorization questions; no major new development surfaced in English-language reporting by brief time. Testimony is scheduled through Thursday. Quiet: FTC v. Amazon Prime jury trial (ongoing, no fresh developments), FTC v. Amazon antitrust (trial March 29, 2027), Murdaugh (next hearing Nov 13), OpenAI spy-device case. ---</description>
+</item>
+<item>
+<title>Trilateral talks</title>
+<guid isPermaLink="false">brief-2026-10-21-1700-16</guid>
+<pubDate>Wed, 21 Oct 2026 16:45:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>Watch Thursday</category>
+<description></description>
+</item>
+<item>
+<title>PHP2Shell exploitation</title>
+<guid isPermaLink="false">brief-2026-10-21-1700-17</guid>
+<pubDate>Wed, 21 Oct 2026 16:44:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>Watch Thursday</category>
+<description></description>
+</item>
+<item>
+<title>LiteLLM fallout</title>
+<guid isPermaLink="false">brief-2026-10-21-1700-18</guid>
+<pubDate>Wed, 21 Oct 2026 16:43:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>Watch Thursday</category>
+<description></description>
+</item>
+<item>
+<title>Nvidia GTC Berlin</title>
+<guid isPermaLink="false">brief-2026-10-21-1700-19</guid>
+<pubDate>Wed, 21 Oct 2026 16:42:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>Watch Thursday</category>
+<description></description>
+</item>
+<item>
+<title>iPhone Duo launch Friday Oct. 23</title>
+<guid isPermaLink="false">brief-2026-10-21-1700-20</guid>
+<pubDate>Wed, 21 Oct 2026 16:41:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>Watch Thursday</category>
+<description>- Russell Brand trial continues; Mandelblit testimony continues through Thursday ---</description>
 </item>
 <item>
 <title>Witkoff met Putin in St. Petersburg for ~3 hours — and Russia released an American prisoner</title>
@@ -248,7 +368,7 @@
 <pubDate>Wed, 21 Oct 2026 09:00:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: cnn.com</description>
+<description>US envoy Steve Witkoff carried the Oslo framework to Vladimir Putin on Wednesday morning at Constantine Palace, pushing to reopen direct US–Russia–Ukraine trilateral talks. The Kremlin said the talks lasted about three hours, with no immediate comment afterward from either side. One concrete outcome did emerge: Witkoff announced Russia released 74-year-old American prisoner Stephen Hubbard, detained for more than four years. The agenda also covered Russia helping resolve the Iran war and potential Russian fertilizer exports to the US. Moscow, meanwhile, struck a cool tone in advance — Lavrov said Russia &quot;does not expect a miracle&quot; and will not make &quot;political concessions.&quot; Zelensky&#x27;s line before the meeting: &quot;Let&#x27;s see what Putin has to say,&quot; and that much depends on whether Washington hears &quot;something new from Russia today — about peace, rather than the continuation of the war.&quot; CNN · AP via Military.com · Devdiscourse Source: cnn.com.</description>
 </item>
 <item>
 <title>Overnight Russian strikes killed 4 and hit energy sites in four regions</title>
@@ -257,7 +377,7 @@
 <pubDate>Wed, 21 Oct 2026 08:59:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: 941theduke.com</description>
+<description>Prime Minister Sergii Koretskyi said overnight strikes hit power facilities in the Kyiv, Volyn, Odesa and Mykolaiv regions, plus civilian enterprises in at least two others. A drone slammed into a 24-story apartment building in Kyiv, killing two; in Korotych, outside Kharkiv, strikes killed an 81-year-old woman and an 83-year-old man and injured 11, including two children. A university building and a shopping centre in central Ukraine were also hit, with injuries reported in Poltava, Lviv, Cherkasy and Chernihiv. Russia&#x27;s defence ministry gave a different account: a drone-storage warehouse complex in Poltava, the Nivki substation in Kyiv, and a cargo ship carrying military cargo to Odesa. Reuters via 94.1 Duke FM · The Orbit Post Source: 941theduke.com.</description>
 </item>
 <item>
 <title>First Russian diesel tanker to the US sails Thursday — the Trump diesel deal, made concrete</title>
@@ -266,7 +386,7 @@
 <pubDate>Wed, 21 Oct 2026 08:58:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: oilprice.com</description>
+<description>Deputy Prime Minister Alexander Novak said Russia will send its first 40,000-ton diesel tanker to the US on Thursday, with more shipments to follow. That&#x27;s the delivery mechanism behind the deal at the center of the last two weeks of US–Ukraine friction — and it lands the morning after Witkoff&#x27;s Putin meeting. Oilprice Source: oilprice.com.</description>
 </item>
 <item>
 <title>Starshield row sharpens: WSJ says Musk ordered the slowdown; Rubio says it&#x27;s Musk&#x27;s call, not the White House&#x27;s</title>
@@ -275,7 +395,15 @@
 <pubDate>Wed, 21 Oct 2026 08:57:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: 941theduke.com</description>
+<description>The Wall Street Journal reported Tuesday that Elon Musk ordered the speed slowdown on Starshield, Ukraine&#x27;s military-grade Starlink service, after discussions with Trump and White House officials — one source said beforehand, two said in the days after. On Wednesday, Secretary of State Marco Rubio said decisions on Ukraine&#x27;s Starlink access are up to SpaceX and Musk, not the White House, calling it &quot;governed by a private commercial contract&quot; — an apparent shift from his earlier position that no one ordered a slowdown. Defence Secretary Hegseth said Tuesday the Pentagon &quot;hasn&#x27;t pulled anything back&quot; and issued no directives. Meanwhile the practical problem is unresolved: reporting says Ukrainian drones still cannot fly faster than 130 km/h without losing connection. Zelensky said Tuesday that US early warnings are working again; the Starshield question is separate and still open. Reuters via 94.1 Duke FM · Pollar News Source: 941theduke.com.</description>
+</item>
+<item>
+<title>Poland: quiet</title>
+<guid isPermaLink="false">brief-2026-10-21-am-05</guid>
+<pubDate>Wed, 21 Oct 2026 08:56:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>1. Ukraine/Russia + Poland</category>
+<description>---</description>
 </item>
 <item>
 <title>Houthis deny any drones toward Medina on Wednesday — after the coalition said it intercepted them there</title>
@@ -284,7 +412,7 @@
 <pubDate>Wed, 21 Oct 2026 08:55:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: devdiscourse.com</description>
+<description>Yemen&#x27;s Houthis said they launched no drones toward the holy city of Medina on Wednesday and conducted no military operations toward Saudi Arabia at all, denying the Saudi-led coalition&#x27;s claim that it intercepted drones over Medina and the Eastern region. The denial matters because the Houthis had previously said Mecca and Medina airspace would be exempt from their airline warning — a Medina strike claim, if true, would cross their own red line. Within Yemen, the Houthis claimed an attack Wednesday on a military camp near Aden airport, and a government source told Reuters they also attacked Riyan airport in Mukalla. Attribution on the Medina/Eastern intercepts is contested — developing. Reuters via Devdiscourse Source: devdiscourse.com.</description>
 </item>
 <item>
 <title>Coalition says it destroyed the launcher behind a Riyadh-bound ballistic missile</title>
@@ -293,7 +421,7 @@
 <pubDate>Wed, 21 Oct 2026 08:54:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: aalimination.com</description>
+<description>The Saudi-led coalition said it destroyed the launch platform used to fire a Houthi ballistic missile toward Riyadh, after earlier announcing the missile itself was intercepted. No location or operational details were given. Al Arabiya via Aalimi Nation Source: aalimination.com.</description>
 </item>
 <item>
 <title>New tanker hit off Oman overnight — fire out, crew safe, attacker unidentified</title>
@@ -302,7 +430,7 @@
 <pubDate>Wed, 21 Oct 2026 08:53:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: srpske.rs</description>
+<description>UKMTO reported that at about 0145 GMT Wednesday, an unidentified projectile hit a tanker roughly 11 nautical miles west of Buha, Oman. The fire was later put out, the tanker is at anchor, the entire crew is safe, and no environmental impact was reported. A separate Tuesday incident saw a projectile hit a tanker 30 nautical miles from Al Faw, Iraq, with no casualties and no damage. The pattern keeps widening beyond the strait itself into the Gulf of Oman. Srpske Novine (UKMTO) Source: srpske.rs.</description>
 </item>
 <item>
 <title>Bloomberg: Iran&#x27;s ship attacks are getting more frequent and more damaging — engine rooms now the target</title>
@@ -311,7 +439,7 @@
 <pubDate>Wed, 21 Oct 2026 08:52:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: rigzone.com</description>
+<description>At least 23 incidents involving ships attacked in or near Hormuz were logged in the first two weeks of October, with at least five reporting engine-room impacts, according to naval groups and security consultants. Engine-room hits cause fires and leave ships without power or propulsion for months of repairs — an echo of the 1980s Tanker War. Officials say Iran has shifted from drones to missiles, which steer toward hotter parts of a ship and carry larger payloads. The IRGC on Tuesday claimed a third tanker in days — a supertanker carrying over 2 million barrels — exploded on a mine south of the strait after switching off radar and navigation; that claim remains unconfirmed, and CENTCOM has disputed the earlier mine claims. US Energy Secretary Wright said Sunday shipments are at about 80% of normal — against IMF PortWatch&#x27;s 4 transits on Oct 18 vs ~85/day baseline. Bloomberg via Rigzone · Malay Mail (IRGC claim) Source: rigzone.com.</description>
 </item>
 <item>
 <title>Oil back above $110 as talks rumours fade and US stocks draw down</title>
@@ -320,7 +448,7 @@
 <pubDate>Wed, 21 Oct 2026 08:51:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: jack1065.com</description>
+<description>Brent rose 1.5% to $110.38 in early Wednesday trading (WTI $99.18) after settling Tuesday at $108.79 off a five-month high of $111.99. Tuesday&#x27;s dip came on unconfirmed reports of Qatar- and Pakistan-brokered mediation — Pakistan&#x27;s army chief met Iranian leaders in Tehran on Oct 20 — but Iranian outlet Nournews reported Iran saying there would be no talks until its demands are met, and no official confirmation of a Qatari delegation emerged. API data showed US crude stocks fell 4.9 million barrels last week, on top of an 11.12 million draw the week before. Araghchi reiterated the strait stays closed until Washington accepts Tehran&#x27;s seven-day plan; indirect talks via Pakistan and Qatar are reported to be continuing, but nothing is confirmed. Reuters via 106.5 Jack FM --- Source: jack1065.com.</description>
 </item>
 <item>
 <title>Nvidia GTC Berlin keynote: OpenShell to leash AI agents, DSX POD factories in 14 days, Vera Rubin in full production</title>
@@ -329,7 +457,7 @@
 <pubDate>Wed, 21 Oct 2026 08:50:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: teslanewswire.com</description>
+<description>Jensen Huang&#x27;s keynote Wednesday unveiled the OpenShell Reference Architecture — models think on Vera Rubin systems, agent tool-use runs on Vera CPUs, and BlueField-4 chips run Sentry software to watch agent behavior from outside the system and enforce policy in hardware — plus DSX POD, prebuilt container AI factories Nvidia says cut onsite deployment from six months to 14 days, with deliveries worldwide in early 2027. Nvidia says Vera Rubin is in full production, its European commitments now approach $10 billion, and its DSX designs can cut cooling water use by up to 100%. The Register&#x27;s caveat, noted in coverage: OpenShell requires Nvidia hardware, still has open security issues on GitHub, and collects telemetry by default unless users opt out. Separately, Nvidia announced an Isaac robotics expansion — a reference humanoid (Agile ONE SN, 1.40m, 31 degrees of freedom, Jetson Thor onboard), Isaac OS runtime and Isaac Lab 3.0 — and supply-chain capacity expansion including 2.5x substrate capacity over three years. Tesla News Wire · GlobeNewswire via Morningstar (Isaac) · GlobeNewswire via Morningstar (supply chain) Source: teslanewswire.com.</description>
 </item>
 <item>
 <title>iPhone Duo reviews are out: &quot;coolest phone in years&quot; — but apps aren&#x27;t ready for it</title>
@@ -338,7 +466,7 @@
 <pubDate>Wed, 21 Oct 2026 08:49:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: cnn.com</description>
+<description>First reviews landed Wednesday ahead of Friday&#x27;s Oct 23 launch: CNN&#x27;s verdict is that the $2,000 foldable is genuinely fun — giant inner screen (near iPad mini size), doubles as bedside clock, mini monitor and tripod camera — but many apps still aren&#x27;t built for the big screen, and developers haven&#x27;t updated them yet. Apple also capped US pre-orders at two units per customer, after reports that launch-day walk-in stock will be effectively nil. CNN · Gadgets360 Source: cnn.com.</description>
 </item>
 <item>
 <title>Google rolls Gemini Personal Intelligence out to Android Auto today</title>
@@ -347,7 +475,7 @@
 <pubDate>Wed, 21 Oct 2026 08:48:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: fonearena.com</description>
+<description>Gemini in the car can now pull from Gmail, Calendar, Photos, Maps, YouTube and Search with the user&#x27;s permission — ask for a flight gate and on-time status in one question, navigate to a doctor&#x27;s appointment without the address, or find a car wash from a photo taken last week. It&#x27;s opt-in (auto-on if already enabled in the Gemini app), rolling out on Android Auto starting today; cars with Google built-in get it in the coming months. Excluded: Workspace accounts, and the EEA, Switzerland, the UK and Nigeria. FoneArena --- Source: fonearena.com.</description>
 </item>
 <item>
 <title>Nvidia DeepStream 9.2: more of it open source, smarter frames for vision-language models</title>
@@ -356,7 +484,39 @@
 <pubDate>Wed, 21 Oct 2026 08:47:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Open source</category>
-<description>Source: forums.developer.nvidia.com</description>
+<description>DeepStream 9.2 is live, and more of the SDK is now open source — the monorepo includes 12 GStreamer elements and 30+ libraries as source, including codecs and Re-ID vision/text embedding plugins. New: intelligent frame selection (send only the most relevant frames to VLMs), an active-learning pipeline with runtime model switching, and GB300 support plus JetPack 7.2.1 for Jetson Thor/Orin. NVIDIA Developer Forums Source: forums.developer.nvidia.com.</description>
+</item>
+<item>
+<title>GitHub trending, Wednesday Oct 21 — beyond the AI-agent crowd</title>
+<guid isPermaLink="false">brief-2026-10-21-am-15</guid>
+<pubDate>Wed, 21 Oct 2026 08:46:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>cranebeaker/coop-anything</title>
+<guid isPermaLink="false">brief-2026-10-21-am-16</guid>
+<pubDate>Wed, 21 Oct 2026 08:45:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>hujjun/mcd-saver-strategist</title>
+<guid isPermaLink="false">brief-2026-10-21-am-17</guid>
+<pubDate>Wed, 21 Oct 2026 08:44:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>AgriciDaniel/claude-seo</title>
+<guid isPermaLink="false">brief-2026-10-21-am-18</guid>
+<pubDate>Wed, 21 Oct 2026 08:43:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
 </item>
 <item>
 <title>openclaw/openclaw</title>
@@ -365,7 +525,7 @@
 <pubDate>Wed, 21 Oct 2026 08:42:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Open source</category>
-<description>Source: gitdiscover.org</description>
+<description> Source: gitdiscover.org.</description>
 </item>
 <item>
 <title>curl moves low/medium vuln reports into the open — because AI-generated reports are flooding in</title>
@@ -374,7 +534,7 @@
 <pubDate>Wed, 21 Oct 2026 08:41:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Open source</category>
-<description>Source: pbxscience.com</description>
+<description>From Oct 26, researchers are asked to file reports they believe are low or medium severity as public GitHub issues; only high and critical reports stay private via HackerOne. Maintainer Daniel Stenberg cites an &quot;avalanche&quot; of reports, over 90% of which can quickly be assessed as below high. PBX Science Source: pbxscience.com.</description>
 </item>
 <item>
 <title>Follow-up: DeepInfer&#x27;s first-week numbers</title>
@@ -383,7 +543,7 @@
 <pubDate>Wed, 21 Oct 2026 08:40:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Open source</category>
-<description>Source: learning.tidox.online</description>
+<description>DeepSeek&#x27;s open-sourced production inference engine reached 14,601 stars in five days and was the loudest Hacker News story of its day (2,189 points) — the README still flags it as incomplete (no KV-cache system, no full prefill/decode split yet). Tidox Learning Hub --- Source: learning.tidox.online.</description>
 </item>
 <item>
 <title>CISA&#x27;s Tuesday KEV additions, consolidated: the full Plex2Shell chain plus Siemens and SiteGuard — deadlines Oct 23 and Nov 3</title>
@@ -392,7 +552,7 @@
 <pubDate>Wed, 21 Oct 2026 08:39:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: thehackernews.com</description>
+<description>CISA added all four Plex2Shell flaws to KEV on Tuesday (CVE-2026-96652/96654/96655/96656), chained by a remote attacker for unauthenticated RCE on Plex Media Server; fixed in 1.43.3.10861 (Aug 3) — victims are unpatched installs, with miners and proxy malware already deployed in the wild. Also added: Siemens Software Center CVE-2026-110936 (DLL sideloading, ROMULUS ClickFix) and SiteGuard Server Edition CVE-2026-106931 (OS command injection to root/SYSTEM). Federal deadlines: Oct 23 for SiteGuard and two Plex flaws, Nov 3 for the rest. (Individual additions were in the night brief; this is the consolidated chain and deadline picture.) The Hacker News Source: thehackernews.com.</description>
 </item>
 <item>
 <title>SafePay detail: how the 600-victim ransomware operation gets in</title>
@@ -401,7 +561,7 @@
 <pubDate>Wed, 21 Oct 2026 08:38:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: zot.news</description>
+<description>The joint FBI/CISA/USSS/Germany/UK advisory (flagged in the night brief) puts SafePay&#x27;s initial access at credential exposure, brute-force, phished accounts, and VPN abuse — notably Mullvad VPN IP addresses — plus automated exploitation of CVEs in edge and internet-exposed devices. Once in: double extortion, plus deleting shadow copies and resetting NAS backup devices to break recovery. Zot News Source: zot.news.</description>
 </item>
 <item>
 <title>Overnight ransomware-leak CLAIMS (unverified tracker reports)</title>
@@ -410,7 +570,7 @@
 <pubDate>Wed, 21 Oct 2026 08:37:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: hookphish.com</description>
+<description>Emperador claims Bruin Group LLC (US telecom expense management firm) — $1M BTC/XMR demand, claims full ticket repository including client wire instructions, W-9s and call traces; Scarlettgroup claims nbcuniversal.com; N0n and Clop listed two more unnamed victims. All are leak-site claims only — no victim confirmation. HookPhish (Bruin) · HookPhish (NBCUniversal) --- Source: hookphish.com.</description>
 </item>
 <item>
 <title>Russell Brand trial, day 8: Brand arrives at Southwark Crown Court as complainant evidence continues</title>
@@ -419,7 +579,7 @@
 <pubDate>Wed, 21 Oct 2026 08:36:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>6. Major court cases</category>
-<description>Source: britbrief.co.uk</description>
+<description>Brand arrived Wednesday with his wife Laura Gallacher, making no comment to press. Jurors have now heard evidence from three women alleging attacks between 2004 and 2009, including the Choice FM worker who said colleagues witnessed an alleged assault and did nothing, and the Hammersmith Apollo attendee whose recorded police interview described a 2009 rape after consensual sex began. Brand denies all seven charges (3 rapes, 3 sexual assaults, 1 indecent assault, 1999–2009); the ~6-week trial continues. BritBrief · The Times live blog Source: britbrief.co.uk.</description>
 </item>
 <item>
 <title>Netanyahu trial: no fresh Wednesday reporting by brief time — Mandelblit testimony continues through Thursday</title>
@@ -428,7 +588,23 @@
 <pubDate>Wed, 21 Oct 2026 08:35:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>6. Major court cases</category>
-<description>Source: newsinisrael.co.uk</description>
+<description>Tuesday&#x27;s session (already covered) had Mandelblit struggling to recall whether he explicitly approved a bribery investigation in Case 4000, with judges demanding a &quot;factual foundation&quot; for motive claims. No new Wednesday session reporting had surfaced by 9 AM CT; testimony is scheduled through Thursday. News in Israel (Tuesday recap) Quiet: FTC v. Amazon Prime jury trial (ongoing, no fresh developments), FTC v. Amazon antitrust (trial March 29, 2027), Murdaugh (next hearing Nov 13), OpenAI spy-device case. --- Source: newsinisrael.co.uk.</description>
+</item>
+<item>
+<title>Witkoff–Putin readout</title>
+<guid isPermaLink="false">brief-2026-10-21-am-27</guid>
+<pubDate>Wed, 21 Oct 2026 08:34:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>Watch Wednesday</category>
+<description></description>
+</item>
+<item>
+<title>Nvidia GTC Berlin</title>
+<guid isPermaLink="false">brief-2026-10-21-am-28</guid>
+<pubDate>Wed, 21 Oct 2026 08:33:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>Watch Wednesday</category>
+<description>- Whether the Medina drone dispute escalates or fizzles — and whether any new tanker incident hits outside the strait - iPhone Duo launch Friday Oct 23 — walk-in stock expected to be effectively nil - Russell Brand trial continues; Mandelblit testimony continues through Thursday ---</description>
 </item>
 <item>
 <title>Witkoff meets Putin Wednesday after &quot;constructive&quot; Oslo talks — framework covers Article 5-like guarantees</title>
@@ -437,7 +613,7 @@
 <pubDate>Tue, 20 Oct 2026 22:00:00 -0500</pubDate>
 <category>Night brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: devdiscourse.com</description>
+<description>A US official called Tuesday&#x27;s Oslo talks &quot;constructive&quot; with &quot;meaningful progress&quot; toward a coordinated approach to engaging Russia. The framework covers security guarantees for Ukraine (Zelensky confirmed &quot;Article 5-like&quot; guarantees were discussed and thanked the US for underlining they &quot;will be strong&quot;), a post-war economic plan, and a broader European security architecture. Witkoff flies to St. Petersburg on Wednesday aiming to open a path to direct trilateral talks. Trump, meanwhile, pressed Kyiv to settle: &quot;Ukraine has to want to settle this war,&quot; adding that Moscow wants a deal. Zelensky said Ukraine is once again receiving US early warnings of Russian missile attacks — &quot;Now it works, it&#x27;s great&quot; — after a call with Rubio where Patriot interceptors and Starlink/Starshield were also discussed. Reuters via Devdiscourse · Reuters via BusinessWorld Source: devdiscourse.com.</description>
 </item>
 <item>
 <title>But the weapons pipeline is strained: Hegseth hasn&#x27;t approved Ukraine&#x27;s latest Patriot interceptor requests</title>
@@ -446,7 +622,7 @@
 <pubDate>Tue, 20 Oct 2026 21:59:00 -0500</pubDate>
 <category>Night brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: devdiscourse.com</description>
+<description>Most PURL deliveries are still flowing, but a source familiar with the matter said Defense Secretary Hegseth has not approved Kyiv&#x27;s latest requests for Patriot interceptors. Rubio acknowledged a European-bought consignment &quot;may not have been delivered&quot; yet but denied any deliberate political directive to harm Ukraine. The WSJ, cited by Reuters, reported Musk ordered the Starshield slowdown after consulting Trump and administration officials — Musk says Starshield is government-controlled and any limits are ultimately up to Trump. Reuters via Devdiscourse Source: devdiscourse.com.</description>
 </item>
 <item>
 <title>Russian strikes knocked out power across 12 regions Tuesday; deadly drone hits around Kyiv</title>
@@ -455,7 +631,7 @@
 <pubDate>Tue, 20 Oct 2026 21:58:00 -0500</pubDate>
 <category>Night brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: zmina.info</description>
+<description>Ukrenergo reported new power cuts in 12 oblasts (Kirovohrad, Zhytomyr, Lviv, Odesa, Rivne, Ternopil, Khmelnytskyi, Zaporizhzhia, Donetsk, Kharkiv, Sumy, Chernihiv), with hourly cut schedules in some areas and industry consumption restricted nationwide — on top of the four Kyiv districts already reported this evening. Casualties from the day&#x27;s strikes: a drone on the Kyiv–Odesa highway in Chabany killed 3 and injured 4; a strike on a production/warehouse building in Obukhiv district killed 3 and injured 6; three thermal-plant workers were killed in Kramatorsk while inspecting heating networks; two people were found dead at warehouses in Dnipro; and a drone near a gas station in Kyiv&#x27;s Holosiivskyi district killed 1 and injured 7. zmina.info Source: zmina.info.</description>
 </item>
 <item>
 <title>Russia claims it hit five cargo vessels; Ukraine denies Dobropillia fell</title>
@@ -464,7 +640,15 @@
 <pubDate>Tue, 20 Oct 2026 21:57:00 -0500</pubDate>
 <category>Night brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: devdiscourse.com</description>
+<description>Moscow&#x27;s defense ministry said it struck three cargo vessels in the port of Reni and two more en route to Odesa, plus two logistics hubs — Russian claims, unconfirmed. Separately, Ukraine says Dobropillia in Donetsk Oblast remains under Ukrainian control despite a Russian claim (reported to Putin by Col. Gen. Ivanayev) that the city had been captured. Treat both as contested. Reuters via Devdiscourse Source: devdiscourse.com.</description>
+</item>
+<item>
+<title>Poland: quiet</title>
+<guid isPermaLink="false">brief-2026-10-20-2200-05</guid>
+<pubDate>Tue, 20 Oct 2026 21:56:00 -0500</pubDate>
+<category>Night brief</category>
+<category>1. Ukraine/Russia + Poland</category>
+<description>---</description>
 </item>
 <item>
 <title>CENTCOM denied Iran&#x27;s mine claims outright: &quot;We have cleared international shipping lanes of mines&quot;</title>
@@ -473,7 +657,7 @@
 <pubDate>Tue, 20 Oct 2026 21:55:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: eaworldview.com</description>
+<description>US Central Command said Iran&#x27;s claim that two tankers caught fire on IRGC mines in the southern strait is false, and claimed 95% of vessels are crossing the strait &quot;successfully.&quot; That directly contradicts Tehran&#x27;s account — but the strait&#x27;s own numbers tell a different story: IMF PortWatch recorded just 4 transits on Oct 18 against a pre-crisis baseline of ~85/day, and 115 AIS-visible vessels were holding position away from berth. EA WorldView · Straits Daily Brief Source: eaworldview.com.</description>
 </item>
 <item>
 <title>UK deploying RAF Typhoons to defend Saudi airspace — defensive role only</title>
@@ -482,7 +666,7 @@
 <pubDate>Tue, 20 Oct 2026 21:54:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: eaworldview.com</description>
+<description>Britain announced RAF Typhoon fighters will fly air-defence missions over Saudi Arabia to intercept Houthi missiles and drones, plus A400M transport aircraft and military advisers to support Saudi staff officers. The MoD stressed the jets will not conduct offensive strikes on the Houthis. London also warned escalation could hit the British economy through energy prices and the cost of living. EA WorldView · jawawa.id (CNBC) Source: eaworldview.com.</description>
 </item>
 <item>
 <title>Oil: Brent settled Tuesday at $108.79 after touching a five-month high of $111.99</title>
@@ -491,7 +675,7 @@
 <pubDate>Tue, 20 Oct 2026 21:53:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>Brent had climbed to its highest since May 20 before easing 0.69% on the day; by early Wednesday it was back up 0.78% to $109.64, WTI $98.58. Shiptracker Kpler counts at least 18 vessel attacks over two weeks, and LSEG analysts warn tanker attacks have expanded beyond the strait as far south as the Gulf of Oman, threatening loadings outside the Arab Gulf. Reuters Source: reuters.com.</description>
 </item>
 <item>
 <title>Saudi postponed its flagship FII investment forum to next year amid the attacks</title>
@@ -500,7 +684,7 @@
 <pubDate>Tue, 20 Oct 2026 21:52:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>The kingdom&#x27;s marquee investor conference — whose expected speakers included Alphabet/Google&#x27;s Ruth Porat, Goldman&#x27;s David Solomon and BlackRock&#x27;s Larry Fink — was pushed to 2027. Gulf stocks fell Tuesday, and Cirium counts more than 45% of Saudi departures cancelled since Oct 8. Monday&#x27;s Houthi claims (Yanbu Aramco site, Shaybah oilfield, Riyadh and Abha airports) remain unconfirmed by Saudi authorities. Reuters · People&#x27;s Daily Source: reuters.com.</description>
 </item>
 <item>
 <title>Follow-ups: Shabwa camp toll rose to 73 killed, 14 missing; Iran says no reply yet to its peace-broker offer</title>
@@ -509,7 +693,7 @@
 <pubDate>Tue, 20 Oct 2026 21:51:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: eaworldview.com</description>
+<description>The death toll from Monday&#x27;s Houthi missile attack on a Yemeni government training camp in Shabwa climbed from 58 to 73. Iran&#x27;s FM Araghchi said Tehran has received no response from Saudi Arabia or the Houthis to its offer to help broker peace talks. Iran also called for an emergency UN Security Council meeting over reported US/Israeli strike threats, including possible MOAB use — Iranian state media claim, unverified. EA WorldView · Reuters --- Source: eaworldview.com.</description>
 </item>
 <item>
 <title>Apple: nearly 100 iPhone Duo and iPhone 18 Pro parts now made in the US</title>
@@ -518,7 +702,7 @@
 <pubDate>Tue, 20 Oct 2026 21:50:00 -0500</pubDate>
 <category>Night brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: macrumors.com</description>
+<description>Apple announced up to $100M over three years to Pennsylvania-based Perryman for titanium used in iPhone Duo enclosures, and Delaware-based Qnity Electronics will produce advanced films for the iPhone 18 Pro&#x27;s variable-aperture camera. By end of 2026, Apple says all cover glass for all iPhones and Apple Watches sold worldwide will come from Corning in Kentucky. The deals sit inside Apple&#x27;s $600B US investment pledge through 2029. Separately, retail staff were reportedly told to warn customers against iPhone Duo walk-in purchases on Friday&#x27;s Oct 23 launch — no launch-day stock expected without a pre-order. MacRumors Source: macrumors.com.</description>
 </item>
 <item>
 <title>Apple confirmed its Oct 28 &quot;Pro and tell&quot; event in Los Angeles</title>
@@ -527,7 +711,7 @@
 <pubDate>Tue, 20 Oct 2026 21:49:00 -0500</pubDate>
 <category>Night brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: techbriefly.com</description>
+<description>Invitations went out Tuesday for the all-day Mac/iPad session. Apple hasn&#x27;t confirmed products; Bloomberg&#x27;s Gurman reiterates the expectation of touchscreen MacBooks, more M6 Macs and an OLED iPad mini — still rumor-level on the lineup, confirmed on the event itself. TechBriefly Source: techbriefly.com.</description>
 </item>
 <item>
 <title>Nvidia: GTC Berlin opened Tuesday; Huang keynotes Wednesday 11 AM CEST</title>
@@ -536,7 +720,7 @@
 <pubDate>Tue, 20 Oct 2026 21:48:00 -0500</pubDate>
 <category>Night brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: panasiabiz.com</description>
+<description>The conference runs Oct 20–22 with 100+ sessions on agentic AI, physical AI, robotics and open models; the keynote is livestreamed free. One wrinkle: SemiAnalysis claims several neoclouds were refused GTC Berlin access after adding AMD GPUs or Google TPUs to their clouds — single source, unnamed companies, unverified. PanAsiaBiz · AIStockWire Source: panasiabiz.com.</description>
 </item>
 <item>
 <title>Google follow-up: llm-d hit 1.0 alongside TorchTPU</title>
@@ -545,7 +729,7 @@
 <pubDate>Tue, 20 Oct 2026 21:47:00 -0500</pubDate>
 <category>Night brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: webpronews.com</description>
+<description>The Kubernetes-native distributed inference stack (co-founded by Google, Red Hat, IBM and others; 500+ contributors across 25 orgs) adds multi-tenant flow control, router high availability, zero-downtime updates and session-aware routing for agents. Google claims prefix-aware routing cut median time-to-first-token 85%+ on an agentic coding workload; Snap is integrating it into production. WebProNews --- Source: webpronews.com.</description>
 </item>
 <item>
 <title>DeepSeek open-sourced DeepInfer (Apache 2.0) — its actual production inference engine</title>
@@ -554,7 +738,31 @@
 <pubDate>Tue, 20 Oct 2026 21:46:00 -0500</pubDate>
 <category>Night brief</category>
 <category>4. Open source</category>
-<description>Source: tech-insider.org</description>
+<description>The framework DeepSeek says serves its V4.1-Flash model in production is now on GitHub: custom kernels (FlashMLA, DeepGEMM, DeepEP), MoE expert parallelism, speculative decoding and structured output, built largely on vLLM. First release runs V4.1-Flash offline only, on Nvidia SM100 GPUs or Huawei Ascend 950 chips. What&#x27;s missing matters: no KV-cache management, no prefill/decode split across machines, no load balancing yet — DeepSeek says those are tightly coupled to its internal infra. A companion tokenizer tool, deepseek-recipe, shipped alongside. It topped GitHub trending for Oct 20. Tech Insider · Tesla News Wire Source: tech-insider.org.</description>
+</item>
+<item>
+<title>GitHub trending Oct 20, beyond DeepInfer</title>
+<guid isPermaLink="false">brief-2026-10-20-2200-16</guid>
+<pubDate>Tue, 20 Oct 2026 21:45:00 -0500</pubDate>
+<category>Night brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>google-research/harness2</title>
+<guid isPermaLink="false">brief-2026-10-20-2200-17</guid>
+<pubDate>Tue, 20 Oct 2026 21:44:00 -0500</pubDate>
+<category>Night brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>cloudflare/security-audit-skill</title>
+<guid isPermaLink="false">brief-2026-10-20-2200-18</guid>
+<pubDate>Tue, 20 Oct 2026 21:43:00 -0500</pubDate>
+<category>Night brief</category>
+<category>4. Open source</category>
+<description></description>
 </item>
 <item>
 <title>DietrichGebert/ponytail</title>
@@ -563,7 +771,7 @@
 <pubDate>Tue, 20 Oct 2026 21:42:00 -0500</pubDate>
 <category>Night brief</category>
 <category>4. Open source</category>
-<description>Source: ghtrends.dev</description>
+<description> Source: ghtrends.dev.</description>
 </item>
 <item>
 <title>Free My TV: ad-free Google TV home screen you can undo (805 stars)</title>
@@ -572,7 +780,23 @@
 <pubDate>Tue, 20 Oct 2026 21:41:00 -0500</pubDate>
 <category>Night brief</category>
 <category>4. Open source</category>
-<description>Source: medium.com</description>
+<description>A small open-source launcher replacing the stock Google TV home screen: no sponsored rows, banners or autoplaying promos, just your apps, trending picks from apps you already have, and hourly weather. One button restores the factory home screen; needs Google/Android TV 12+. Medium --- Source: medium.com.</description>
+</item>
+<item>
+<title>CISA added two more actively exploited flaws to KEV on Oct 20</title>
+<guid isPermaLink="false">brief-2026-10-20-2200-21</guid>
+<pubDate>Tue, 20 Oct 2026 21:40:00 -0500</pubDate>
+<category>Night brief</category>
+<category>5. Cybersecurity</category>
+<description></description>
+</item>
+<item>
+<title>Siemens Software Center CVE-2026-110936</title>
+<guid isPermaLink="false">brief-2026-10-20-2200-22</guid>
+<pubDate>Tue, 20 Oct 2026 21:39:00 -0500</pubDate>
+<category>Night brief</category>
+<category>5. Cybersecurity</category>
+<description></description>
 </item>
 <item>
 <title>Plex Media Server CVE-2026-96656</title>
@@ -581,7 +805,7 @@
 <pubDate>Tue, 20 Oct 2026 21:38:00 -0500</pubDate>
 <category>Night brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: thecircuitry.to</description>
+<description>(SiteGuard CVE-2026-106931, also added Oct 20, was already in the 5 PM brief.) The Circuitry Source: thecircuitry.to.</description>
 </item>
 <item>
 <title>DHS barred DeepSeek from federal civilian agencies — the day DeepSeek open-sourced DeepInfer</title>
@@ -590,7 +814,7 @@
 <pubDate>Tue, 20 Oct 2026 21:37:00 -0500</pubDate>
 <category>Night brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: aistockwire.com</description>
+<description>An order published in the Federal Register on Oct 20 (signed copy dated July 24) bars DeepSeek products from federal civilian purchases and requires agencies to remove DeepSeek products — and third-party products built on DeepSeek implementations — from their IT systems. AIStockWire Source: aistockwire.com.</description>
 </item>
 <item>
 <title>Oracle&#x27;s October CPU: critical PeopleSoft flaw CVE-2026-101420 (CVSS 9.6)</title>
@@ -599,7 +823,7 @@
 <pubDate>Tue, 20 Oct 2026 21:36:00 -0500</pubDate>
 <category>Night brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: thecircuitry.to</description>
+<description>The SQR component flaw lets a low-privileged attacker change or read critical data; part of a batch fixing dozens of PeopleTools flaws. Adobe also patched an Acrobat-for-Edge out-of-bounds write (CVE-2026-100134, CVSS 8.8) allowing code execution via a malicious file — update to 154.0.4258.48. The Circuitry Source: thecircuitry.to.</description>
 </item>
 <item>
 <title>Joint #StopRansomware advisory on SafePay: 600+ victims since Aug 2024</title>
@@ -608,7 +832,7 @@
 <pubDate>Tue, 20 Oct 2026 21:35:00 -0500</pubDate>
 <category>Night brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: linkedin.com</description>
+<description>FBI, CISA, US Secret Service, Germany and the UK jointly warned on SafePay this week: initial access via stolen credentials and old Cisco ASA/FTD, Veeam and SonicWall flaws. Separately, NIST, CISA and NSA published voluntary practices for detecting and responding to rogue AI agents — timely, given today&#x27;s AI-breach confirmations. Exploit Security newsletter --- Source: linkedin.com.</description>
 </item>
 <item>
 <title>Netanyahu trial: Mandelblit cross-examined Tuesday on whether he ever approved the bribery probe</title>
@@ -617,7 +841,7 @@
 <pubDate>Tue, 20 Oct 2026 21:34:00 -0500</pubDate>
 <category>Night brief</category>
 <category>6. Major court cases</category>
-<description>Source: newsinisrael.co.uk</description>
+<description>Former AG Avichai Mandelblit, testifying for the defense, struggled to recall whether he explicitly approved investigating Netanyahu on suspicion of bribery in Case 4000 (the Bezeq/Walla case). The defense put to him a quote he allegedly gave prosecutor Liat Tirosh questioning the investigation&#x27;s motivations; judges called for a &quot;factual foundation&quot; on Mandelblit&#x27;s motives and criticized the warning given at the investigation&#x27;s start. Mandelblit said even if he made such statements, that wouldn&#x27;t necessarily justify opening a particular file. Testimony continues through Thursday. News in Israel Source: newsinisrael.co.uk.</description>
 </item>
 <item>
 <title>FTC v. Amazon antitrust: both sides move to narrow the case ahead of the March 29, 2027 trial</title>
@@ -626,7 +850,23 @@
 <pubDate>Tue, 20 Oct 2026 21:33:00 -0500</pubDate>
 <category>Night brief</category>
 <category>6. Major court cases</category>
-<description>Source: law360.co.uk</description>
+<description>Amazon asked the court Friday to axe claims tied to its fulfillment business and the &quot;Project Nessie&quot; pricing algorithm; the FTC sought to narrow one of Amazon&#x27;s defenses. Pretrial trimming, not a ruling — trial date unchanged. Law360 · MLex Quiet: Russell Brand trial (no fresh developments beyond Tuesday&#x27;s testimony already covered this evening), FTC v. Amazon Prime jury trial, Murdaugh (next Nov 13), OpenAI spy-device case. --- Source: law360.co.uk.</description>
+</item>
+<item>
+<title>Witkoff in St. Petersburg</title>
+<guid isPermaLink="false">brief-2026-10-20-2200-29</guid>
+<pubDate>Tue, 20 Oct 2026 21:32:00 -0500</pubDate>
+<category>Night brief</category>
+<category>Watch Wednesday</category>
+<description></description>
+</item>
+<item>
+<title>Nvidia GTC Berlin</title>
+<guid isPermaLink="false">brief-2026-10-20-2200-30</guid>
+<pubDate>Tue, 20 Oct 2026 21:31:00 -0500</pubDate>
+<category>Night brief</category>
+<category>Watch Wednesday</category>
+<description>- Iran&#x27;s expected final US response to the 7-day Hormuz proposal; whether CENTCOM&#x27;s &quot;lanes cleared&quot; claim holds against transit data - Russell Brand trial continues; Mandelblit testimony continues - iPhone Duo launch Friday Oct 23 — walk-in stock expected to be effectively nil ---</description>
 </item>
 <item>
 <title>Oslo talks done: Zelensky claims &quot;positive signals,&quot; Witkoff takes a peace framework to Russia on Wednesday</title>
@@ -635,7 +875,7 @@
 <pubDate>Tue, 20 Oct 2026 17:00:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: nypost.com</description>
+<description>Zelensky met Witkoff, Norwegian PM Støre and Finnish President Stubb in Oslo (Kushner joined remotely — reportedly ill). Zelensky said he got assurances of &quot;strong&quot; security guarantees; a document setting out guarantee options — reportedly comparable to NATO Article 5 — goes to Russian negotiators Wednesday, and Witkoff flies to St. Petersburg on Oct 21 to present the Oslo framework to Putin, with feedback expected a day later. Trump said &quot;it&#x27;s time&quot; for a peace deal. In a morning call with Rubio, Zelensky raised interceptors, early warning and Starlink/Starshield — and says Ukraine is once again getting advance missile alerts. NY Post · pollar.news · kiprinform Source: nypost.com.</description>
 </item>
 <item>
 <title>Zelensky reportedly floated pausing Russian oil-infra strikes in exchange for Patriot missiles</title>
@@ -644,7 +884,7 @@
 <pubDate>Tue, 20 Oct 2026 16:59:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: zot.news</description>
+<description>A six-outlet aggregator says Zelensky proposed suspending strikes on Russian oil infrastructure in return for Patriot batteries — treat as unconfirmed; no official readout confirmed it. zot.news Source: zot.news.</description>
 </item>
 <item>
 <title>Russian drones hit a Kyiv energy facility Tuesday; power out in four districts</title>
@@ -653,7 +893,15 @@
 <pubDate>Tue, 20 Oct 2026 16:58:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. Ukraine/Russia + Poland</category>
-<description>Source: devdiscourse.com</description>
+<description>Mayor Klitschko confirmed the strike on the capital&#x27;s energy infrastructure; no further details released. devdiscourse (Reuters) Source: devdiscourse.com.</description>
+</item>
+<item>
+<title>Poland: quiet</title>
+<guid isPermaLink="false">brief-2026-10-20-1700-04</guid>
+<pubDate>Tue, 20 Oct 2026 16:57:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>1. Ukraine/Russia + Poland</category>
+<description>---</description>
 </item>
 <item>
 <title>US official rejected Iran&#x27;s MQ-9 shoot-down claim as false</title>
@@ -662,7 +910,7 @@
 <pubDate>Tue, 20 Oct 2026 16:56:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: brusselsreporter.com</description>
+<description>Tehran claimed air defenses downed a US MQ-9 Reaper over the strait Monday night; a US official says that&#x27;s false. The IRGC&#x27;s two-tanker mine claims also remain unconfirmed — no vessel names, flags or casualty figures. brusselsreporter Source: brusselsreporter.com.</description>
 </item>
 <item>
 <title>Fars claims a US airstrike hit Iran&#x27;s Konarak naval base Monday, injuring 2</title>
@@ -671,7 +919,7 @@
 <pubDate>Tue, 20 Oct 2026 16:55:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: brusselsreporter.com</description>
+<description>Fars news agency says a US strike hit a naval base in Konarak (Sistan-Baluchistan), injuring two military personnel and striking an air-defense installation. The US has not commented. Unverified. brusselsreporter Source: brusselsreporter.com.</description>
 </item>
 <item>
 <title>US sanctions signal: Deputy Sec of State Wright says certain dark-fleet tankers can shed sanctions designations under defined conditions</title>
@@ -680,7 +928,7 @@
 <pubDate>Tue, 20 Oct 2026 16:54:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: eagleintelmari.com</description>
+<description>A maritime-intel outlet reports Wright opened a compliance path for shadow-fleet tankers — a policy carve-out amid the shipping war. Single source; notable if confirmed. eagleintelmari Source: eagleintelmari.com.</description>
 </item>
 <item>
 <title>The strait is functionally shut: 4 vessel crossings on Oct 18 vs ~85/day pre-war</title>
@@ -689,7 +937,15 @@
 <pubDate>Tue, 20 Oct 2026 16:53:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: silentdossier.com</description>
+<description>Tehran says ships it hasn&#x27;t authorized may not pass; Washington insists the waterway is open. Meanwhile Qatar&#x27;s FM spokesman confirmed indirect US–Iran talks are still running in Doha. silentdossier Source: silentdossier.com.</description>
+</item>
+<item>
+<title>Houthi/Saudi: no new verified strikes this window</title>
+<guid isPermaLink="false">brief-2026-10-20-1700-09</guid>
+<pubDate>Tue, 20 Oct 2026 16:52:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>2. Iran/US + Yemen/Saudi + Hormuz</category>
+<description>---</description>
 </item>
 <item>
 <title>Google open-sourced TorchTPU at the PyTorch Conference (San Jose, Oct 20–21)</title>
@@ -698,7 +954,23 @@
 <pubDate>Tue, 20 Oct 2026 16:51:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: tech-insider.org</description>
+<description>A native PyTorch backend for Google&#x27;s TPUs: existing PyTorch training/serving code can target TPUs through a config change instead of a rewrite. Ships with vLLM, SGLang, Hugging Face, Ray and LiteRT integrations — production serving stacks, not just research frameworks. Outlets are framing it as Google&#x27;s direct shot at Nvidia&#x27;s CUDA lock-in (Amazon announced a parallel PyTorch-on-Trainium play, TorchNeuron, the same day). tech-insider.org Source: tech-insider.org.</description>
+</item>
+<item>
+<title>Nvidia: quiet ahead of GTC Berlin</title>
+<guid isPermaLink="false">brief-2026-10-20-1700-11</guid>
+<pubDate>Tue, 20 Oct 2026 16:50:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>3. Tech: Apple, Nvidia, Google</category>
+<description></description>
+</item>
+<item>
+<title>Apple: quiet</title>
+<guid isPermaLink="false">brief-2026-10-20-1700-12</guid>
+<pubDate>Tue, 20 Oct 2026 16:49:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>3. Tech: Apple, Nvidia, Google</category>
+<description>---</description>
 </item>
 <item>
 <title>Cognitum One commercially launched RuVector (Oct 20)</title>
@@ -707,7 +979,7 @@
 <pubDate>Tue, 20 Oct 2026 16:48:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>4. Open source</category>
-<description>Source: morningstar.com</description>
+<description>An open-source Rust engine that fuses vector search (HNSW + SIMD), a Cypher-compatible knowledge graph and self-learning agent memory — so agents remember not just similar text but how ideas connect and which answers worked before. Runs in PostgreSQL, the browser and at the edge. 4,400+ GitHub stars, 580 forks, 500k+ downloads/month across npm/crates.io. Today&#x27;s launch adds commercial licensing and enterprise support to the OSS project. Morningstar/AccessWire Source: morningstar.com.</description>
 </item>
 <item>
 <title>GitDiscover Oct 20 risers</title>
@@ -716,7 +988,7 @@
 <pubDate>Tue, 20 Oct 2026 16:47:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>4. Open source</category>
-<description>Source: gitdiscover.org</description>
+<description>- Headroom (headroomlabs-ai/headroom, +310 today) — compresses what AI agents read (tool outputs, logs, files, history) to cut tokens. - Coopanion (Pal-AI-Lab/Coopanion, 479 stars) — tiny desktop companion that chats via text bubbles, takes voice input, and can click/type/switch windows with consent; stores what it learns in a versioned PARTNER.md. - A PS5-executables-to-Linux/Windows porting tool (+2.9K today, +200%). - ComfyUI (+1,011) and Strix (+509) already reported earlier. Source: gitdiscover.org.</description>
 </item>
 <item>
 <title>OVHcloud CLI update: researchers now link the release hijack to the GlassWorm campaign</title>
@@ -725,7 +997,7 @@
 <pubDate>Tue, 20 Oct 2026 16:46:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>4. Open source</category>
-<description>Source: windowsforum.com</description>
+<description>The shared thread is the compromised contributor account — which OpenSourceMalware says may have been owned for ~7 months. OVH&#x27;s promised post-mortem still pending. If you installed in the Oct 19 window, rotate secrets and move to v0.16.0. windowsforum --- Source: windowsforum.com.</description>
 </item>
 <item>
 <title>AI-agent attacks confirmed at operational scale — two major confirmations today</title>
@@ -734,7 +1006,7 @@
 <pubDate>Tue, 20 Oct 2026 16:45:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: cybersecnews.org</description>
+<description>Bloomberg confirmed the Chinese-developed ARTEX AI tool (previously seen against South Korean banks) was used to breach Japanese firms including GMO Internet Group. Separately, Reuters documented a Chinese-speaking threat actor using autonomous AI agents — specifically DeepSeek and Claude Code — to breach 100+ companies globally including John Deere and SharkNinja, with 1,200+ automated break-in attempts at roughly $50 per breach and minimal human involvement. Attack economics just shifted. cybersecnews.org Source: cybersecnews.org.</description>
 </item>
 <item>
 <title>Unit 42 update (Monday): Qilin (Spikey Scorpius) and INC (Tarnished Scorpius) are exploiting Palo Alto CVE-2026-0257 to bypass MFA</title>
@@ -743,7 +1015,7 @@
 <pubDate>Tue, 20 Oct 2026 16:44:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: thehackernews.com</description>
+<description>The ransomware crews use the PAN-OS/GlobalProtect auth bypass to set up unauthorized VPN sessions, then pivot straight to the virtualization layer — one case went VPN gateway → vCenter → disabled ESXi protections and dumped a domain controller&#x27;s VMDK offline, bypassing in-guest EDR. They&#x27;re also chaining Veeam flaws (CVE-2023-27532). Sectors hit: education, finance, healthcare, government, utilities, retail and more. TheHackerNews Source: thehackernews.com.</description>
 </item>
 <item>
 <title>FirstVDS breach: Russian hosting provider hit via ISPsystem VMmanager 6 flaw (The Record)</title>
@@ -752,7 +1024,7 @@
 <pubDate>Tue, 20 Oct 2026 16:43:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: scworld.com</description>
+<description>Attackers deployed malware Saturday that mounted customer VMs read-only and copied passwords, cloud-service credentials, crypto wallets and other files. FirstVDS says only part of its infrastructure was affected; ISPsystem has released patches but the vulnerability is reportedly not yet fully fixed. Affected customers should rotate credentials. SC Media Source: scworld.com.</description>
 </item>
 <item>
 <title>CISA added SiteGuard Server Edition CVE-2026-106931 to KEV today — federal deadline Oct 23</title>
@@ -761,7 +1033,7 @@
 <pubDate>Tue, 20 Oct 2026 16:42:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: thecircuitry.to</description>
+<description>The OS-command-injection-to-root/SYSTEM flaw (in the statistics function, enabled by default) keeps getting exploited in Japan. Follow-up to the Oct 18 active-exploitation report. The Circuitry Source: thecircuitry.to.</description>
 </item>
 <item>
 <title>CenterPoint Energy disclosed a breach affecting 1M+ Texas residents</title>
@@ -770,7 +1042,7 @@
 <pubDate>Tue, 20 Oct 2026 16:41:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: secureresearch.com</description>
+<description> Source: secureresearch.com.</description>
 </item>
 <item>
 <title>Florida DMV breach: driver-license/motor-vehicle records accessed Sept 4 via compromised credentials</title>
@@ -779,7 +1051,7 @@
 <pubDate>Tue, 20 Oct 2026 16:40:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: threatbeat.com</description>
+<description>FLHSMV started notifying victims; says no evidence of misuse yet. The breach reportedly came through a police department that stored login info insecurely. threatbeat (Ars Technica) Source: threatbeat.com.</description>
 </item>
 <item>
 <title>Ahold Delhaize confirmed a cyberattack forced systems offline across most of its US + European grocery brands</title>
@@ -788,7 +1060,7 @@
 <pubDate>Tue, 20 Oct 2026 16:39:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: secureresearch.com</description>
+<description>Confirms the cause behind the week-long outages (Albert Heijn, Delhaize and more). secureresearch via The Record Source: secureresearch.com.</description>
 </item>
 <item>
 <title>ConnectWise escalation: Huntress found suspicious sign-ins across 162 organizations</title>
@@ -797,7 +1069,7 @@
 <pubDate>Tue, 20 Oct 2026 16:38:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: secureresearch.com</description>
+<description>(Slightly under the 173-tenant count — different measurement, same campaign.) ConnectWise suspended Cloud Backup and took SaaS Security + Cloud Management offline. secureresearch --- Source: secureresearch.com.</description>
 </item>
 <item>
 <title>Russell Brand trial Tuesday: final three accusers heard; one alleges Brand anally raped her in 2009 after she agreed to consensual sex</title>
@@ -806,7 +1078,31 @@
 <pubDate>Tue, 20 Oct 2026 16:37:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>6. Major court cases</category>
-<description>Source: ktwb.com</description>
+<description>In a police interview played at Southwark Crown Court, the woman said she met Brand after a 2009 gig, went to his home willingly, and that he turned her over and anally raped her despite her pleas to stop — then told her to &quot;clear up the mess.&quot; Brand told police the incident had &quot;lived with me ever since&quot;; he denies all charges (3 rapes, 3 sexual assaults, 1 indecent assault, 1999–2009). Trial continues Wednesday. Reuters via KTWB Source: ktwb.com.</description>
+</item>
+<item>
+<title>Netanyahu trial: no fresh Tuesday reporting beyond this morning&#x27;s Mandelblit recap</title>
+<guid isPermaLink="false">brief-2026-10-20-1700-25</guid>
+<pubDate>Tue, 20 Oct 2026 16:36:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>6. Major court cases</category>
+<description>Quiet: FTC v. Amazon Prime (ongoing, no fresh news), Murdaugh (next Nov 13), OpenAI spy-device case. ---</description>
+</item>
+<item>
+<title>Witkoff in St. Petersburg</title>
+<guid isPermaLink="false">brief-2026-10-20-1700-26</guid>
+<pubDate>Tue, 20 Oct 2026 16:35:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>Watch Wednesday</category>
+<description></description>
+</item>
+<item>
+<title>Nvidia GTC Berlin</title>
+<guid isPermaLink="false">brief-2026-10-20-1700-27</guid>
+<pubDate>Tue, 20 Oct 2026 16:34:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>Watch Wednesday</category>
+<description>- Iran&#x27;s expected final US response to the 7-day Hormuz proposal - Saudi confirmation (or denial) of Monday&#x27;s Houthi Yanbu/Shaybah/Abha claims - Russell Brand trial continues; Mandelblit testimony continues ---</description>
 </item>
 <item>
 <title>Overnight barrage reached western Ukraine for the first time</title>
@@ -815,7 +1111,7 @@
 <pubDate>Tue, 20 Oct 2026 09:00:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation: Ukraine/Russia, Poland</category>
-<description>Source: reuters.com</description>
+<description>Russia launched 165 drones overnight (115 downed); grid operator Ukrenergo reported outages in 12 regions — Kirovohrad, Zhytomyr, Lviv, Odesa, Rivne, Ternopil, Khmelnytskyi, Zaporizhzhia, Donetsk, Kharkiv, Sumy, Chernihiv. DTEK: three Odesa facilities hit, 32,700 families still without power; the Lviv governor says drones struck the same Lviv-region energy facility twice. Reuters · europesays Source: reuters.com.</description>
 </item>
 <item>
 <title>Russian jet-drone struck a Kharkiv park — 6 killed, incl. 3 children</title>
@@ -824,7 +1120,7 @@
 <pubDate>Tue, 20 Oct 2026 08:59:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation: Ukraine/Russia, Poland</category>
-<description>Source: zarknews.com</description>
+<description>A Geran-3 hit a park in Nova Vodolaha (Mon ~4:30 PM local) where families were playing: 6 killed including three children — one-year-old Anhelina killed in her stroller, her mother Inna (28, a teacher) died in hospital, plus an 11-year-old girl and another mother; ~14–15 injured incl. children. Zelensky called it &quot;pure atrocity&quot;; Kharkiv prosecutors opened a war-crime probe. zarknews (Reuters-sourced) · zmina.info · The Sun Source: zarknews.com.</description>
 </item>
 <item>
 <title>Drone strike on Kyiv–Odesa highway killed 3 Tue morning</title>
@@ -833,7 +1129,7 @@
 <pubDate>Tue, 20 Oct 2026 08:58:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation: Ukraine/Russia, Poland</category>
-<description>Source: reuters.com</description>
+<description>Two vehicles set ablaze near a petrol station; victims include a shuttle-bus driver who ferries people to the National Military Memorial Cemetery. Kyiv region past-day toll: 4 killed, 27 wounded (Obukhiv 3 killed/6 wounded; Bucha 1 woman killed, 21 wounded incl. 8 children). Reuters Source: reuters.com.</description>
 </item>
 <item>
 <title>Trump: &quot;Russia, frankly, has been fine on Ukraine&quot;</title>
@@ -842,7 +1138,7 @@
 <pubDate>Tue, 20 Oct 2026 08:57:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation: Ukraine/Russia, Poland</category>
-<description>Source: reuters.com</description>
+<description>Trump escalated the feud Monday, said Zelensky is &quot;not helping matters much&quot; and Kyiv should find &quot;somebody else to negotiate&quot; an end to the war — further courtship of Moscow. Reuters Source: reuters.com.</description>
 </item>
 <item>
 <title>Zelensky–Witkoff meet in Oslo today</title>
@@ -851,7 +1147,7 @@
 <pubDate>Tue, 20 Oct 2026 08:56:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation: Ukraine/Russia, Poland</category>
-<description>Source: devdiscourse.com</description>
+<description>In-person talks with Norwegian PM Støre and Finnish President Stubb; Kushner joins remotely (reportedly ill); UK, France, Germany, Poland, EU and NATO reps expected. Axios: Witkoff then plans to travel to Moscow to present peace ideas to Putin (Kremlin hasn&#x27;t confirmed). Zelensky also phoned Rubio about interceptors, early warning and Starshield; EU foreign-policy chief Kallas accused US negotiators of pressuring Ukraine to &quot;surrender land.&quot; devdiscourse · europesays Source: devdiscourse.com.</description>
 </item>
 <item>
 <title>Ukraine claims strikes on Russian frontline logistics</title>
@@ -860,7 +1156,7 @@
 <pubDate>Tue, 20 Oct 2026 08:55:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation: Ukraine/Russia, Poland</category>
-<description>Source: europesays.com</description>
+<description>General Staff says it hit a command post near Fedorivka (Zaporizhzhia), a repair unit near Kalmiuske (Donetsk), depots near Kripenskyi/Rivnopil/Lahidne, and troop concentrations — no independent confirmation. europesays Source: europesays.com.</description>
 </item>
 <item>
 <title>Russia claims 383 Ukrainian drones intercepted in 24h; fire at Tambov industrial site</title>
@@ -869,7 +1165,7 @@
 <pubDate>Tue, 20 Oct 2026 08:54:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation: Ukraine/Russia, Poland</category>
-<description>Source: anewz.tv</description>
+<description>MoD also claims drone strikes on Reni port logistics/three cargo ships and a bulk carrier hit en route to Odesa — all unverified. anewz.tv Source: anewz.tv.</description>
 </item>
 <item>
 <title>Poland: jets scrambled again as strikes neared the border</title>
@@ -878,7 +1174,7 @@
 <pubDate>Tue, 20 Oct 2026 08:53:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation: Ukraine/Russia, Poland</category>
-<description>Source: europesays.com</description>
+<description>Poland scrambled fighters three times on Oct 19 and kept Polish/allied aircraft active overnight during the western-Ukraine assault — preventive posture, no airspace violations; ops concluded, systems back to standard mode. No fresh developments on the Tusk-plot suspect Krzysztof N. (2-month detention stands). europesays · thegaze.media --- Source: europesays.com.</description>
 </item>
 <item>
 <title>Reuters: Iran deliberately stalling talks to weaken Trump before Nov 3 midterms</title>
@@ -887,7 +1183,7 @@
 <pubDate>Tue, 20 Oct 2026 08:52:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>Three senior Iranian officials + one insider told Reuters Tehran believes Trump is ready for a new wave of strikes and is &quot;preparing for renewed Israeli and US attacks, not for a deal.&quot; Deadlock: Washington wants the nuclear program on the agenda from day one; Tehran insists its 7-day plan conditions (blockade lifted, sanctions/frozen assets released, hostilities ended) come first. Reuters · JFeed Source: reuters.com.</description>
 </item>
 <item>
 <title>Trump: US hitting Iran hard &quot;economically and militarily&quot;; praised Putin for &quot;laying off Iran&quot;</title>
@@ -896,7 +1192,7 @@
 <pubDate>Tue, 20 Oct 2026 08:51:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: dailyprabhat.com</description>
+<description>Monday before a Kansas trip: &quot;Russia could have done a lot more to help Iran… Putin&#x27;s laying off of Iran, it&#x27;s nice because we&#x27;re hitting Iran very hard.&quot; Also hinted at an imminent release of a US hostage held in Russia and said he&#x27;s open to a trilateral Putin–Xi meeting on nuclear disarmament. dailyprabhat · eaworldview Source: dailyprabhat.com.</description>
 </item>
 <item>
 <title>Araghchi after Lavrov talks: &quot;Never in our history have Iran and Russia worked as closely as now&quot;</title>
@@ -905,7 +1201,7 @@
 <pubDate>Tue, 20 Oct 2026 08:50:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: freshfact.com.ng</description>
+<description>Talks covered Lebanon, Palestine, Ukraine and Yemen, with focus on &quot;expansion of economic and nuclear cooperation.&quot; freshfact Source: freshfact.com.ng.</description>
 </item>
 <item>
 <title>IRGC spokesman flagged 7 undersea internet cables under Hormuz; &quot;new targets will be unveiled, new weapons will be unveiled&quot;</title>
@@ -914,7 +1210,7 @@
 <pubDate>Tue, 20 Oct 2026 08:49:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: themedialine.org</description>
+<description>Speaking at Tehran&#x27;s Sacred Defense Museum, Mohebbi vowed to drive the remnants of US power out of the region — a warning, not an announced attack decision. Follows Rezaei&#x27;s earlier threats re cables/data centers/AI facilities. The Media Line · digibanglatech Source: themedialine.org.</description>
 </item>
 <item>
 <title>Five Senate Democrats (led by Warren) demand the Pentagon disclose the &quot;true cost&quot; of the Iran war</title>
@@ -923,7 +1219,7 @@
 <pubDate>Tue, 20 Oct 2026 08:48:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: usatoday.com</description>
+<description>Letter (Oct 19, first reported by USA Today) to CENTCOM chief Adm. Brad Cooper seeks unclassified damage estimates for US bases/facilities, repair timelines, adaptation costs; answers requested by Nov 2. Military pegged the cost at $43.6B through Sept 3; 50,000+ US troops deployed; 21 killed, 865 injured. USA Today Source: usatoday.com.</description>
 </item>
 <item>
 <title>Houthi ballistic missile at Riyadh intercepted Tue morning</title>
@@ -932,7 +1228,7 @@
 <pubDate>Tue, 20 Oct 2026 08:47:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: alkhaleejtoday.co</description>
+<description>The National Early Warning Platform issued a danger alert for Riyadh (later lifted: &quot;the danger has passed&quot;); AFP journalists heard two blasts; coalition spokesman al-Malki confirmed the intercept. alkhaleejtoday (AFP) · kuwaitup2date Source: alkhaleejtoday.co.</description>
 </item>
 <item>
 <title>Shabwa training-camp death toll revised up to 73</title>
@@ -941,7 +1237,7 @@
 <pubDate>Tue, 20 Oct 2026 08:46:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: ktsa.com</description>
+<description>All were new recruits aged 18–20; some still missing a day after the ballistic-missile strike on the al-Alam camp — deadliest strike since the fighting escalated three months ago. ktsa.com Source: ktsa.com.</description>
 </item>
 <item>
 <title>Houthis claim Monday attacks on four Saudi targets — Aramco site in Yanbu, Shaybah oilfield, KKIA, Abha airport</title>
@@ -950,7 +1246,7 @@
 <pubDate>Tue, 20 Oct 2026 08:45:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>Saudi authorities did not immediately confirm; Reuters could not independently verify. Claim vs. impact still open. Reuters Source: reuters.com.</description>
 </item>
 <item>
 <title>Saree claims 110 Saudi strikes in Yemen in past 24h, 30+ killed/injured</title>
@@ -959,7 +1255,7 @@
 <pubDate>Tue, 20 Oct 2026 08:44:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: aalimination.com</description>
+<description>aalimination Source: aalimination.com.</description>
 </item>
 <item>
 <title>US envoy Tom Barrack: US &quot;not prepared to send troops&quot; to help Saudi Arabia</title>
@@ -968,7 +1264,7 @@
 <pubDate>Tue, 20 Oct 2026 08:43:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: ktsa.com</description>
+<description>Said he understood &quot;Saudi Arabia is in a very difficult position,&quot; but no US troop deployment for the kingdom — notable US position statement. ktsa.com Source: ktsa.com.</description>
 </item>
 <item>
 <title>IRGC claims two tankers set ablaze by mines south of Hormuz + an MQ-9 downed Monday night</title>
@@ -977,7 +1273,7 @@
 <pubDate>Tue, 20 Oct 2026 08:42:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: tasnimnews.ir</description>
+<description>Tasnim statement (09:58 UTC Tue): mines in an &quot;unauthorized passage&quot; set two tankers ablaze; no names, flags or casualties. Caveat: internal counts conflict and this may rehash the weekend claims rather than fresh incidents. US hasn&#x27;t commented on the drone claim. Tasnim · devdiscourse Source: tasnimnews.ir.</description>
 </item>
 <item>
 <title>UKMTO: incident ~121 nm east of Duqm, Oman — tanker and military personnel</title>
@@ -986,7 +1282,7 @@
 <pubDate>Tue, 20 Oct 2026 08:41:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: ajupress.com</description>
+<description>ajupress Source: ajupress.com.</description>
 </item>
 <item>
 <title>Oil: Brent ~$110.07 Tue (+0.47%), intraday $110.70 Mon — highest since May 20</title>
@@ -995,7 +1291,7 @@
 <pubDate>Tue, 20 Oct 2026 08:40:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: thehindubusinessline.com</description>
+<description>Kpler: at least 18 vessels attacked over two weeks keeping the risk premium intact; ING says the market is pricing a &quot;significant risk premium.&quot; Very deep backwardation: WTI Nov ~$104.03 vs December ~$98.80. Hindu BusinessLine Source: thehindubusinessline.com.</description>
 </item>
 <item>
 <title>Gulf markets fell Tue; Qatar index at 6+ year low; 45%+ of Saudi airport departures cancelled since Oct 8</title>
@@ -1004,7 +1300,7 @@
 <pubDate>Tue, 20 Oct 2026 08:39:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: reuters.com</description>
+<description>Saudi TASI −1.1%, Qatar −0.7% to 8,577 (lowest in over six years), Aramco −0.2% — per Cirium&#x27;s aviation data. Reuters Source: reuters.com.</description>
 </item>
 <item>
 <title>Macron&#x27;s Gulf tour (Kuwait/UAE Mon → Bahrain + Qatar Tue–Wed) is now an explicit fuel-price mission</title>
@@ -1013,7 +1309,7 @@
 <pubDate>Tue, 20 Oct 2026 08:38:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>2. Iran/US + Yemen/Saudi + Hormuz</category>
-<description>Source: lemonde.fr</description>
+<description>Le Monde: the Élysée is considering tapping diesel/jet-fuel reserves stockpiled in Oman plus &quot;additional volumes&quot; from Gulf producers as the Hormuz chokehold looms over Europe ahead of winter; TotalEnergies CEO Pouyanné is in the delegation. Le Monde ⚠️ Fake/recycled content circulating: stories claiming &quot;US fires on/disables Iranian tanker M/T Hasna in Gulf of Oman&quot; are from May 6–8, 2026 (WSJ/CENTCOM), repackaged by content farms as fresh. Same for &quot;Trump pauses Project Freedom / Epic Fury ended / Axios one-page MoU&quot; — also May 2026 material recycled through fake Al Jazeera mirrors. Treat single low-quality sources on this war with suspicion. --- Source: lemonde.fr.</description>
 </item>
 <item>
 <title>Nvidia + Germany: Huang and Chancellor Merz announce industrial-AI partnership (Berlin, Mon)</title>
@@ -1022,7 +1318,7 @@
 <pubDate>Tue, 20 Oct 2026 08:37:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: dealroom.co</description>
+<description>Two federal ministries signed a Joint Declaration of Intent on &quot;physical AI&quot; for robotics and manufacturing, with government funding in the high hundreds of millions of euros. Huang also announced investments in four German startups — Agile Robots, Avelios Medical, Mirelo, Reflex Aerospace — part of Nvidia&#x27;s nearly $10B Europe commitment; ~$1B invested in Germany over the past year. Follows Huang&#x27;s Oct 13 Paris promise of $2B in European AI deals within a week. dealroom · madrobot Source: dealroom.co.</description>
 </item>
 <item>
 <title>Google launched &quot;Gemini for Government Services&quot; (today)</title>
@@ -1031,7 +1327,7 @@
 <pubDate>Tue, 20 Oct 2026 08:36:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: morningstar.com</description>
+<description>At the Google Public Sector Summit &#x27;26: enterprise-grade agentic AI for federal/state/local agencies — specialized government personnel skills, connectors (ServiceNow, Salesforce, Workspace, Outlook 365, SharePoint, Oracle), BLEN connector for the Federal Register/Regulations.gov. Preview now (HHS + State of Missouri piloting); GA later this year. Follows Gemini for Legal and Gemini for Financial Services. Morningstar/PR Newswire Source: morningstar.com.</description>
 </item>
 <item>
 <title>Apple added new American Manufacturing partners for iPhone Duo / iPhone 18 Pro (today)</title>
@@ -1040,7 +1336,7 @@
 <pubDate>Tue, 20 Oct 2026 08:35:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: macrumors.com</description>
+<description>Up to $100M over three years to Pennsylvania-based Perryman (titanium for iPhone Duo enclosures); Delaware-based Qnity Electronics producing &quot;advanced films&quot; for the iPhone 18 Pro&#x27;s variable-aperture camera. Apple also reiterated Mac mini assembly in Houston (Foxconn) begins later this year — that facility also builds Apple&#x27;s advanced AI servers. Part of the $600B US pledge by end of 2029. MacRumors · apple.com Source: macrumors.com.</description>
 </item>
 <item>
 <title>CORRECTION / catch-up: Tim Cook stepped down as Apple CEO on Sept 1, 2026 — John Ternus is CEO</title>
@@ -1049,7 +1345,7 @@
 <pubDate>Tue, 20 Oct 2026 08:34:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Tech: Apple, Nvidia, Google</category>
-<description>Source: macrumors.com</description>
+<description>Announced April 20, 2026: Ternus (ex-hardware engineering chief) succeeded Cook, who is now executive chairman. Explains why coverage keeps calling it the &quot;Tim Cook era&quot; — it ended eight days before the iPhone Duo launch. Bloomberg: Ternus is weighing a broad overhaul — moving away from the spring/autumn release cycle and cutting middle management. Verified this morning; this was missed in prior briefs. MacRumors · techcentral (Bloomberg) · DCD --- Source: macrumors.com.</description>
 </item>
 <item>
 <title>DeepSeek open-sourced DeepInfer, its production inference engine (Apache 2.0) — 700+ points on HN</title>
@@ -1058,7 +1354,7 @@
 <pubDate>Tue, 20 Oct 2026 08:33:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Open source</category>
-<description>Source: ailetter.ai.kr</description>
+<description>The framework that serves DeepSeek-V4.1-Flash in production: custom kernels, MoE expert parallelism, speculative decoding, structured outputs. Targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs. Built on vLLM. ~3,600 GitHub stars quickly; deepseek-recipe (production tokenizer matching the official API) shipped alongside. ailetter · cryptobriefing Source: ailetter.ai.kr.</description>
 </item>
 <item>
 <title>OpenBSD 8.0 released (61st release)</title>
@@ -1067,7 +1363,7 @@
 <pubDate>Tue, 20 Oct 2026 08:32:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Open source</category>
-<description>Source: linuxiac.com</description>
+<description>amd64 kernel address space 4GB→512GB, vmm/vmd VMs up to 64 vCPUs, Intel Arc (Alchemist) graphics, arm64 hibernation, RISC-V vector support, httpd/smtpd randomly relinked at boot, WPA3, PF queues past 4 Gbps. Errata for 7.8/7.9/8.0 also out today. linuxiac · runtimewire Source: linuxiac.com.</description>
 </item>
 <item>
 <title>GitHub trending risers (Oct 20)</title>
@@ -1076,7 +1372,55 @@
 <pubDate>Tue, 20 Oct 2026 08:31:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Open source</category>
-<description>Source: gitdiscover.org</description>
+<description> Source: gitdiscover.org.</description>
+</item>
+<item>
+<title>strelov1/freehire</title>
+<guid isPermaLink="false">brief-2026-10-20-am-31</guid>
+<pubDate>Tue, 20 Oct 2026 08:30:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>HeyPuter/everything</title>
+<guid isPermaLink="false">brief-2026-10-20-am-32</guid>
+<pubDate>Tue, 20 Oct 2026 08:29:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>chenglou/handwired</title>
+<guid isPermaLink="false">brief-2026-10-20-am-33</guid>
+<pubDate>Tue, 20 Oct 2026 08:28:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>Supermedo/uncharted_pc</title>
+<guid isPermaLink="false">brief-2026-10-20-am-34</guid>
+<pubDate>Tue, 20 Oct 2026 08:27:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>outcrawlai/scout</title>
+<guid isPermaLink="false">brief-2026-10-20-am-35</guid>
+<pubDate>Tue, 20 Oct 2026 08:26:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description></description>
+</item>
+<item>
+<title>datalab-to/indra</title>
+<guid isPermaLink="false">brief-2026-10-20-am-36</guid>
+<pubDate>Tue, 20 Oct 2026 08:25:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>4. Open source</category>
+<description>---</description>
 </item>
 <item>
 <title>Plex2Shell actively exploited in the wild</title>
@@ -1085,7 +1429,7 @@
 <pubDate>Tue, 20 Oct 2026 08:24:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: xda-developers.com</description>
+<description>Chain of 4 CVEs (CVE-2026-96652/96654/96655/96656) gives unauthenticated RCE on Plex Media Server; PoC published Oct 16, attacks started Oct 17. Payloads: XMRig miner (&quot;mylovelyminer&quot;) + Linux proxy backdoor (&quot;myawesomeproxy&quot;) linked to AISURU botnet infra. Fix: 1.43.3.10861+ (patched in August — the victims are unpatched servers). Worth checking any Plex install. XDA · neotechcloudsolutions Source: xda-developers.com.</description>
 </item>
 <item>
 <title>OpenCode Console breached — attackers stole users&#x27; API keys for a &quot;large-scale distillation attack&quot;</title>
@@ -1094,7 +1438,7 @@
 <pubDate>Tue, 20 Oct 2026 08:23:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: techcrunch.com</description>
+<description>Disclosed Oct 17–18: unauthorized access to a legacy system being decommissioned; 1.4% of Console users affected (only those with external providers linked). Victims report unauthorized charges of hundreds to $1,700; Anthropic/Google blocked the exposed keys, OpenAI is refunding. If you run OpenCode Console with linked provider keys, rotate them. TechCrunch · BleepingComputer Source: techcrunch.com.</description>
 </item>
 <item>
 <title>AfD email leak: 421,179 internal emails (281 GB) published on hexane.cc</title>
@@ -1103,7 +1447,7 @@
 <pubDate>Tue, 20 Oct 2026 08:22:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: securityaffairs.com</description>
+<description>AfD confirmed Oct 19 that a hosting provider was hacked in September and mailboxes copied. The anonymous site shows AI-generated summaries graded for &quot;racism/antisemitism&quot; instead of the emails themselves — so the explosive claims are unverified. Bild independently reviewed samples and found genuine party records (incl. Frohnmaier&#x27;s ID card, bank statements, NRW member lists). Timed as Germany debates banning the party. SecurityAffairs · Brussels Signal Source: securityaffairs.com.</description>
 </item>
 <item>
 <title>OVHcloud CLI supply-chain hijack</title>
@@ -1112,7 +1456,7 @@
 <pubDate>Tue, 20 Oct 2026 08:21:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: techmaniacs.com</description>
+<description>Attacker hijacked a contributor&#x27;s GitHub account and replaced download archives on 5 OVHcloud CLI releases with secret-stealing malware; bad files live ~94 min (Oct 19, 00:30–02:04 UTC). Clean release published same evening — if you installed in that window, rotate your secrets. THN via techmaniacs Source: techmaniacs.com.</description>
 </item>
 <item>
 <title>Drupal warns of fast exploitation risk for critical core RCE flaws</title>
@@ -1121,7 +1465,7 @@
 <pubDate>Tue, 20 Oct 2026 08:20:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: techmaniacs.com</description>
+<description>Entity List + Field UI modules; exploit paths exist with contributed modules — automated scanners expected within days. Patch core immediately. SecurityWeek Source: techmaniacs.com.</description>
 </item>
 <item>
 <title>Paradigm Healthcare breach: 970k Medi-Cal members</title>
@@ -1130,7 +1474,7 @@
 <pubDate>Tue, 20 Oct 2026 08:19:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: techmaniacs.com</description>
+<description>Unauthorized access to files with names, DOBs, genders, member IDs; detected Oct 2025, reported to HHS Sept 14, 2026 — nearly a year later. No fraud evidence yet. SecurityWeek via techmaniacs Source: techmaniacs.com.</description>
 </item>
 <item>
 <title>Three critical AI-stack CVEs disclosed Oct 20 (9.8 each, no known exploitation yet)</title>
@@ -1139,7 +1483,7 @@
 <pubDate>Tue, 20 Oct 2026 08:18:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: thehackerwire.com</description>
+<description>DB-GPT ≤0.8.2 unauth RCE (CVE-2026-77932); Letta ≤0.16.8 unauth API + Postgres access via insecure defaults (CVE-2026-77936); LangChain-Chatchat ≤0.3.1.3 unauth RCE via /tools/call invoking the shell tool (CVE-2026-75128). Patch proactively. Source: thehackerwire.com.</description>
 </item>
 <item>
 <title>NEC subcontractor cyberattack</title>
@@ -1148,7 +1492,7 @@
 <pubDate>Tue, 20 Oct 2026 08:17:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: finance.biggo.com</description>
+<description>Stolen subcontractor creds used to access 3 client environments, servers encrypted, cloud storage exfiltrated. No names/numbers released. biggo Source: finance.biggo.com.</description>
 </item>
 <item>
 <title>WhatsApp help pages leaked hidden instructions for a Meta chatbot</title>
@@ -1157,7 +1501,7 @@
 <pubDate>Tue, 20 Oct 2026 08:16:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>5. Cybersecurity</category>
-<description>Source: techmaniacs.com</description>
+<description>~80 help pages exposed internal chatbot guidance including &quot;WHAT NOT TO SAY&quot; sections; Meta blames a bug — feed for prompt-injection research. techmaniacs Minor: Korean investment firms PFCT (18,900) + Mouda (314) breached via server-side template injection Sept 27; 16 Korean institutions (~100k total) in the wave. Ransomware CLAIMS (unverified): Anubis→Fisher59, N0n→&quot;Company #97&quot; textile firm. ajupress · hookphish --- Source: techmaniacs.com.</description>
 </item>
 <item>
 <title>Russell Brand trial, Tuesday: 4th and 6th accusers testified</title>
@@ -1166,7 +1510,7 @@
 <pubDate>Tue, 20 Oct 2026 08:15:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>6. Major court cases</category>
-<description>Source: theoldhamtimes.co.uk</description>
+<description>Woman 4 (Capital Radio/Choice FM, 2004–05) alleged Brand pinned her against a wall, kissed her &quot;sloppily&quot; and groped her while four companions &quot;did nothing&quot;; Woman 6 (Channel 4, 2009) said Brand put his head in her lap. Both behind screens; Brand&#x27;s wife Laura Gallacher shook her head in the gallery. Brand denies all 7 charges; The Times is running a live blog. Oldham Times · The Times · BritBrief Source: theoldhamtimes.co.uk.</description>
 </item>
 <item>
 <title>Netanyahu trial, Tuesday: Mandelblit struggled to recall approving the Case 4000 probe</title>
@@ -1175,7 +1519,7 @@
 <pubDate>Tue, 20 Oct 2026 08:14:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>6. Major court cases</category>
-<description>Source: newsinisrael.co.uk</description>
+<description>Defense presented an alleged Mandelblit quote to prosecutor Liat Tirosh questioning the investigation&#x27;s legal basis; judges demanded a &quot;factual foundation&quot; for claims about Mandelblit&#x27;s motives and criticized the warning at the investigation&#x27;s start. Single aggregator citing Ynet/Walla/IsraelHayom/ToI. newsinisrael Source: newsinisrael.co.uk.</description>
 </item>
 <item>
 <title>OpenAI engineer spy-device case: new Saudi royal contact detail</title>
@@ -1184,7 +1528,7 @@
 <pubDate>Tue, 20 Oct 2026 08:13:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>6. Major court cases</category>
-<description>Source: techmaniacs.com</description>
+<description>Abdulrahman Alfozan allegedly maintained frequent communications with a Saudi royal family member throughout 2025–2026 alongside the covert recorder charge. techmaniacs Quiet: FTC v. Amazon Prime (ongoing, no fresh), Murdaugh (next Nov 13), Birchmore/Farwell, Netanyahu pardon debate. --- Source: techmaniacs.com.</description>
 </item>
 <item>
 <title>Saudi Arabia postponed its flagship investment summit to 2027</title>
@@ -1193,7 +1537,39 @@
 <pubDate>Mon, 19 Oct 2026 22:00:00 -0500</pubDate>
 <category>Night brief</category>
 <category>1. World escalation</category>
-<description>Source: media.cnn.com</description>
+<description> Source: media.cnn.com.</description>
+</item>
+<item>
+<title>Saudi Arabia opened an investigation into its air-defense failure at Riyadh&#x27;s King Khalid airport</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-02</guid>
+<pubDate>Mon, 19 Oct 2026 21:59:00 -0500</pubDate>
+<category>Night brief</category>
+<category>1. World escalation</category>
+<description></description>
+</item>
+<item>
+<title>Intel-sharing row: Rubio denied any pause Monday</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-03</guid>
+<pubDate>Mon, 19 Oct 2026 21:58:00 -0500</pubDate>
+<category>Night brief</category>
+<category>1. World escalation</category>
+<description></description>
+</item>
+<item>
+<title>Iran diplomacy: Araghchi met Qatari mediators in New York on Monday</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-04</guid>
+<pubDate>Mon, 19 Oct 2026 21:57:00 -0500</pubDate>
+<category>Night brief</category>
+<category>1. World escalation</category>
+<description></description>
+</item>
+<item>
+<title>Hormuz tonight:</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-05</guid>
+<pubDate>Mon, 19 Oct 2026 21:56:00 -0500</pubDate>
+<category>Night brief</category>
+<category>1. World escalation</category>
+<description>Poland: quiet; Krzysztof N. in 2-month pretrial detention.</description>
 </item>
 <item>
 <title>Nvidia announced the largest-ever quantum simulation: 104 qubits on JUPITER</title>
@@ -1202,7 +1578,47 @@
 <pubDate>Mon, 19 Oct 2026 21:55:00 -0500</pubDate>
 <category>Night brief</category>
 <category>2. Tech products (Apple / Nvidia / Google)</category>
-<description>Source: cms.interestingengineering.com</description>
+<description> Source: cms.interestingengineering.com.</description>
+</item>
+<item>
+<title>Google catch-up (Oct 13, reported Oct 19): private vibe-coded apps via Google Play</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-07</guid>
+<pubDate>Mon, 19 Oct 2026 21:54:00 -0500</pubDate>
+<category>Night brief</category>
+<category>2. Tech products (Apple / Nvidia / Google)</category>
+<description>Apple: no fresh developments since the 5 PM brief (Oct 28 &quot;Pro and Tell&quot; event stands; Gurman points to Nov 6 launches).</description>
+</item>
+<item>
+<title>Orca (stablyai/orca) — +1.6k stars today, ~98K total</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-08</guid>
+<pubDate>Mon, 19 Oct 2026 21:53:00 -0500</pubDate>
+<category>Night brief</category>
+<category>3. Open source</category>
+<description></description>
+</item>
+<item>
+<title>OpenHuman (tinyhumansai/openhuman) — the fastest, cheapest OSS agent harness per its own README</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-09</guid>
+<pubDate>Mon, 19 Oct 2026 21:52:00 -0500</pubDate>
+<category>Night brief</category>
+<category>3. Open source</category>
+<description></description>
+</item>
+<item>
+<title>zvec-grep (zvec-ai, 4.1k stars, Rust)</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-10</guid>
+<pubDate>Mon, 19 Oct 2026 21:51:00 -0500</pubDate>
+<category>Night brief</category>
+<category>3. Open source</category>
+<description></description>
+</item>
+<item>
+<title>Pi coding agent (MIT) update:</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-11</guid>
+<pubDate>Mon, 19 Oct 2026 21:50:00 -0500</pubDate>
+<category>Night brief</category>
+<category>3. Open source</category>
+<description></description>
 </item>
 <item>
 <title>NEW: Siemens Software Center vulnerability exploited in the wild</title>
@@ -1211,961 +1627,439 @@
 <pubDate>Mon, 19 Oct 2026 21:49:00 -0500</pubDate>
 <category>Night brief</category>
 <category>4. Cybersecurity</category>
-<description>Source: securityonline.info</description>
+<description> Source: securityonline.info.</description>
 </item>
 <item>
-<title>Trump blasted Zelensky on Truth Social Sunday afternoon</title>
-<link>https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl?cid=external-feeds_iluminar_meta</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-01</guid>
-<pubDate>Sun, 18 Oct 2026 17:00:00 -0500</pubDate>
+<title>CrowdStrike: unknown actor is using the Chinese AI pentest tool ARTEX against South Korean banks</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-13</guid>
+<pubDate>Mon, 19 Oct 2026 21:48:00 -0500</pubDate>
+<category>Night brief</category>
+<category>4. Cybersecurity</category>
+<description></description>
+</item>
+<item>
+<title>Unpatched Broadcom Wi-Fi vulnerability:</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-14</guid>
+<pubDate>Mon, 19 Oct 2026 21:47:00 -0500</pubDate>
+<category>Night brief</category>
+<category>4. Cybersecurity</category>
+<description></description>
+</item>
+<item>
+<title>BeyondTrust zero-day: federal patch deadline was TODAY</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-15</guid>
+<pubDate>Mon, 19 Oct 2026 21:46:00 -0500</pubDate>
+<category>Night brief</category>
+<category>4. Cybersecurity</category>
+<description></description>
+</item>
+<item>
+<title>Russell Brand trial Monday:</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-16</guid>
+<pubDate>Mon, 19 Oct 2026 21:45:00 -0500</pubDate>
+<category>Night brief</category>
+<category>5. Major court cases</category>
+<description></description>
+</item>
+<item>
+<title>Netanyahu trial:</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-17</guid>
+<pubDate>Mon, 19 Oct 2026 21:44:00 -0500</pubDate>
+<category>Night brief</category>
+<category>5. Major court cases</category>
+<description></description>
+</item>
+<item>
+<title>FTC v. Amazon Prime:</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-18</guid>
+<pubDate>Mon, 19 Oct 2026 21:43:00 -0500</pubDate>
+<category>Night brief</category>
+<category>5. Major court cases</category>
+<description>Murdaugh: next hearing Nov 13. ---</description>
+</item>
+<item>
+<title>Watch tomorrow:</title>
+<guid isPermaLink="false">brief-2026-10-19-2200-19</guid>
+<pubDate>Mon, 19 Oct 2026 21:42:00 -0500</pubDate>
+<category>Night brief</category>
+<category>5. Major court cases</category>
+<description></description>
+</item>
+<item>
+<title>Houthi ballistic missiles hit Yemen government training camp in Shabwa — 53 killed, 200 wounded</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-01</guid>
+<pubDate>Mon, 19 Oct 2026 17:00:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. World escalation</category>
-<description>Source: cnn.com</description>
+<description></description>
 </item>
 <item>
-<title>Zelensky hit back on NBC&#x27;s Meet the Press Sunday</title>
-<link>https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl?cid=external-feeds_iluminar_meta</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-02</guid>
-<pubDate>Sun, 18 Oct 2026 16:59:00 -0500</pubDate>
+<title>Egypt parliament delayed its Saudi military-support vote to Oct 26</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-02</guid>
+<pubDate>Mon, 19 Oct 2026 16:59:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. World escalation</category>
-<description>Source: cnn.com</description>
+<description></description>
 </item>
 <item>
-<title>Zelensky spoke with Trump&#x27;s envoys Witkoff and Kushner Sunday</title>
-<link>https://enmnews.com/2026/10/18/zelensky-dials-trump-envoys-starlink-row-deepens</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-03</guid>
-<pubDate>Sun, 18 Oct 2026 16:58:00 -0500</pubDate>
+<title>US issued a rare coordinated security alert for citizens in 12 Middle Eastern countries</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-03</guid>
+<pubDate>Mon, 19 Oct 2026 16:58:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. World escalation</category>
-<description>Source: enmnews.com</description>
+<description></description>
 </item>
 <item>
-<title>Lithuania drone incident follow-up (developing)</title>
-<link>https://www.lapost.com/content/lithuania-told-residents-to-go-to-shelters-after-detecting-a-flying-object</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-04</guid>
-<pubDate>Sun, 18 Oct 2026 16:57:00 -0500</pubDate>
+<title>Qatar Airways suspended Saudi-bound flights to Riyadh and Dammam until Oct 24</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-04</guid>
+<pubDate>Mon, 19 Oct 2026 16:57:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. World escalation</category>
-<description>Source: lapost.com</description>
+<description></description>
 </item>
 <item>
-<title>Iran confirmed a new defense minister, who immediately threatened the US</title>
-<link>https://www.thedailyjagran.com/lite/world/news/iran-new-defence-minster-mehrdad-akhlaqi-ketabchi-warns-us-against-military-action-threatens-strong-response-10333156</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-05</guid>
-<pubDate>Sun, 18 Oct 2026 16:56:00 -0500</pubDate>
+<title>New shipping incident: tug struck by two unknown projectiles NE of Khor Fakkan, UAE</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-05</guid>
+<pubDate>Mon, 19 Oct 2026 16:56:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. World escalation</category>
-<description>Source: thedailyjagran.com</description>
+<description></description>
 </item>
 <item>
-<title>Iran&#x27;s FM says a seven-day proposal to reopen Hormuz via Qatari mediation is still on the table</title>
-<link>https://andmagazine.substack.com/p/morning-brief-18-october-2026</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-06</guid>
-<pubDate>Sun, 18 Oct 2026 16:55:00 -0500</pubDate>
+<title>IRGC claims ANOTHER tanker mine strike Sunday evening (engine-room fire, immobilized)</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-06</guid>
+<pubDate>Mon, 19 Oct 2026 16:55:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. World escalation</category>
-<description>Source: andmagazine.substack.com</description>
+<description></description>
 </item>
 <item>
-<title>Yemen/Saudi latest</title>
-<link>https://scoopfeeds.com/article/407383fe-b154-5e8b-a999-c3e0db3091ae</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-07</guid>
-<pubDate>Sun, 18 Oct 2026 16:54:00 -0500</pubDate>
+<title>Fighting near Bab al-Mandab continues</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-07</guid>
+<pubDate>Mon, 19 Oct 2026 16:54:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. World escalation</category>
-<description>Source: scoopfeeds.com</description>
+<description></description>
 </item>
 <item>
-<title>India says 12 crew members were injured in a projectile strike on a Panama-flagged tanker in Hormuz on Tuesday</title>
-<link>https://financialports.com/hormuz-tanker-attacks-surge-12-strikes-in-week/</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-08</guid>
-<pubDate>Sun, 18 Oct 2026 16:53:00 -0500</pubDate>
+<title>Lavrov visiting Tehran today</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-08</guid>
+<pubDate>Mon, 19 Oct 2026 16:53:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>1. World escalation</category>
-<description>Source: financialports.com</description>
+<description></description>
 </item>
 <item>
-<title>Apple revised App Store review guidelines (Oct 16) with a blanket ban on AI-generated non-consensual sexual imagery</title>
-<link>https://finance.biggo.com/news/8231253a-fa8c-4f7e-a414-f6261ca293f5</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-09</guid>
-<pubDate>Sun, 18 Oct 2026 16:52:00 -0500</pubDate>
+<title>Overnight Oct 18-19 (from this morning&#x27;s brief, holding):</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-09</guid>
+<pubDate>Mon, 19 Oct 2026 16:52:00 -0500</pubDate>
 <category>Evening brief</category>
-<category>2. Tech products</category>
-<description>Source: finance.biggo.com</description>
+<category>1. World escalation</category>
+<description>Oil: Brent -1.8% to ~$108, WTI ~$101 — off Friday&#x27;s $109.86 on Trump waiving Graham-Act sanctions; US Energy Secretary says Gulf flows back to ~80% pre-war levels. (Seen list, morning brief) Poland: quiet; Krzysztof N. in 2-month pretrial detention.</description>
 </item>
 <item>
-<title>Google Research quietly open-sourced &quot;Harness²&quot; under Apache 2.0</title>
-<link>https://medium.com/neuralnotions/why-googles-new-harness%C2%B2-open-source-release-changes-how-i-think-about-ai-agents-01a9ac80cf88</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-10</guid>
-<pubDate>Sun, 18 Oct 2026 16:51:00 -0500</pubDate>
+<title>Apple announced a new &quot;Pro and Tell&quot; product event — Wed Oct 28, Los Angeles</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-10</guid>
+<pubDate>Mon, 19 Oct 2026 16:51:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>2. Tech products (Apple / Nvidia / Google)</category>
+<description></description>
+</item>
+<item>
+<title>Nvidia GTC Berlin starts tomorrow (Oct 20-22)</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-11</guid>
+<pubDate>Mon, 19 Oct 2026 16:50:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>2. Tech products (Apple / Nvidia / Google)</category>
+<description></description>
+</item>
+<item>
+<title>Apple Intelligence cleared for China beta late October</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-12</guid>
+<pubDate>Mon, 19 Oct 2026 16:49:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>2. Tech products (Apple / Nvidia / Google)</category>
+<description></description>
+</item>
+<item>
+<title>REA passed 327,000 GitHub stars (biggo) / ~325k (Digitechbytes) — v6.7.0 released Oct 18</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-13</guid>
+<pubDate>Mon, 19 Oct 2026 16:48:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>3. Open source</category>
-<description>Source: medium.com</description>
+<description></description>
 </item>
 <item>
-<title>CLI-Anything (HKUDS) trending</title>
-<link>https://digisoulhub.com/blog/cli-anything-agent-native-apps/</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-11</guid>
-<pubDate>Sun, 18 Oct 2026 16:50:00 -0500</pubDate>
+<title>Strix — open-source AI pentester with 70,000 GitHub stars</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-14</guid>
+<pubDate>Mon, 19 Oct 2026 16:47:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>3. Open source</category>
-<description>Source: digisoulhub.com</description>
+<description></description>
 </item>
 <item>
-<title>OpenCode crossed ~216,000 GitHub stars</title>
-<link>http://dev.to/itxtayab/opencode-the-open-source-ai-coding-agent-with-216000-github-stars-7hi</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-12</guid>
-<pubDate>Sun, 18 Oct 2026 16:49:00 -0500</pubDate>
+<title>Brandon Thomas&#x27;s ArtCraft suite keeps growing — PhotoCraft now ~67,500 stars</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-15</guid>
+<pubDate>Mon, 19 Oct 2026 16:46:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>3. Open source</category>
-<description>Source: dev.to</description>
+<description></description>
 </item>
 <item>
-<title>Magento/Adobe Commerce &quot;BlockStrap&quot; — CVSS 10.0, patch-versus-attackers race on (NEW significant vuln)</title>
-<link>https://neotechcloudsolutions.com/en/magento-blockstrap-vulnerability-cve-2026-103849-online-store/</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-13</guid>
-<pubDate>Sun, 18 Oct 2026 16:48:00 -0500</pubDate>
+<title>Trending today on GitHub:</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-16</guid>
+<pubDate>Mon, 19 Oct 2026 16:45:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>3. Open source</category>
+<description></description>
+</item>
+<item>
+<title>Nvidia Run:ai open-source deep-dive (Apache 2.0)</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-17</guid>
+<pubDate>Mon, 19 Oct 2026 16:44:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>3. Open source</category>
+<description></description>
+</item>
+<item>
+<title>China&#x27;s Armory Castle exploited BeyondTrust zero-day for SEVEN WEEKS before disclosure</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-18</guid>
+<pubDate>Mon, 19 Oct 2026 16:43:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>4. Cybersecurity</category>
-<description>Source: neotechcloudsolutions.com</description>
+<description></description>
 </item>
 <item>
-<title>New write-up on the Zammad zero-day chain (CVE-2026-102490)</title>
-<link>http://dev.to/jeffreyciend/from-service-account-to-root-what-cve-2026-102490-actually-buys-an-attacker-17e</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-14</guid>
-<pubDate>Sun, 18 Oct 2026 16:47:00 -0500</pubDate>
+<title>Ivanti Connect Secure chain still not fully fixed:</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-19</guid>
+<pubDate>Mon, 19 Oct 2026 16:42:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>4. Cybersecurity</category>
-<description>Source: dev.to</description>
+<description></description>
 </item>
 <item>
-<title>Russell Brand trial (Southwark Crown Court)</title>
-<link>https://www.archynetys.com/trend/2026-10-15/russell-brand-trial-woman-details-alleged-rape-after-asking-her-to-take-photos</link>
-<guid isPermaLink="false">brief-2026-10-18-1700-15</guid>
-<pubDate>Sun, 18 Oct 2026 16:46:00 -0500</pubDate>
+<title>Today&#x27;s critical CVE list (NVD, Oct 19):</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-20</guid>
+<pubDate>Mon, 19 Oct 2026 16:41:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>4. Cybersecurity</category>
+<description></description>
+</item>
+<item>
+<title>CISA KEV: federal patch deadlines were TODAY (Oct 19)</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-21</guid>
+<pubDate>Mon, 19 Oct 2026 16:40:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>4. Cybersecurity</category>
+<description></description>
+</item>
+<item>
+<title>Cisco SEG zero-day (CVE-2026-76519) still actively exploited</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-22</guid>
+<pubDate>Mon, 19 Oct 2026 16:39:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>4. Cybersecurity</category>
+<description></description>
+</item>
+<item>
+<title>Espionage and breaches:</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-23</guid>
+<pubDate>Mon, 19 Oct 2026 16:38:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>4. Cybersecurity</category>
+<description></description>
+</item>
+<item>
+<title>No fresh significant developments by brief time</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-24</guid>
+<pubDate>Mon, 19 Oct 2026 16:37:00 -0500</pubDate>
 <category>Evening brief</category>
 <category>5. Major court cases</category>
-<description>Source: archynetys.com</description>
+<description>---</description>
 </item>
 <item>
-<title>Ukraine launched one of its largest drone attacks of the war overnight</title>
-<link>https://freshblognews.com/storyid137358203/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-01</guid>
-<pubDate>Sun, 18 Oct 2026 09:00:00 -0500</pubDate>
+<title>Watch tomorrow:</title>
+<guid isPermaLink="false">brief-2026-10-19-1700-25</guid>
+<pubDate>Mon, 19 Oct 2026 16:36:00 -0500</pubDate>
+<category>Evening brief</category>
+<category>5. Major court cases</category>
+<description></description>
+</item>
+<item>
+<title>Russia hit Kyiv region overnight with 16 ballistic missiles + ~200 drones</title>
+<guid isPermaLink="false">brief-2026-10-19-am-01</guid>
+<pubDate>Mon, 19 Oct 2026 09:00:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation</category>
-<description>Source: freshblognews.com</description>
+<description></description>
 </item>
 <item>
-<title>Russia kept up its own overnight barrage Oct 17–18</title>
-<link>https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl?cid=external-feeds_iluminar_meta</link>
-<guid isPermaLink="false">brief-2026-10-18-am-02</guid>
-<pubDate>Sun, 18 Oct 2026 08:59:00 -0500</pubDate>
+<title>Third tanker mine claim in Hormuz — still Iran-only, unverified</title>
+<guid isPermaLink="false">brief-2026-10-19-am-02</guid>
+<pubDate>Mon, 19 Oct 2026 08:59:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation</category>
-<description>Source: cnn.com</description>
+<description></description>
 </item>
 <item>
-<title>Zelensky: Starlink curbs on Ukraine&#x27;s battlefield drones still biting (follow-up)</title>
-<link>https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl?cid=external-feeds_iluminar_meta</link>
-<guid isPermaLink="false">brief-2026-10-18-am-03</guid>
-<pubDate>Sun, 18 Oct 2026 08:58:00 -0500</pubDate>
+<title>Oil eased Monday on the Russia sanctions waiver</title>
+<guid isPermaLink="false">brief-2026-10-19-am-03</guid>
+<pubDate>Mon, 19 Oct 2026 08:58:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation</category>
-<description>Source: cnn.com</description>
+<description></description>
 </item>
 <item>
-<title>Lithuania issued a shelter alert Sunday morning after a suspected drone entered its airspace (developing)</title>
-<link>https://1027wbow.com/2026/10/18/lithuania-told-residents-to-go-to-shelters-after-detecting-a-flying-object/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-04</guid>
-<pubDate>Sun, 18 Oct 2026 08:57:00 -0500</pubDate>
+<title>No new verified Houthi–Saudi strikes surfaced in the window</title>
+<guid isPermaLink="false">brief-2026-10-19-am-04</guid>
+<pubDate>Mon, 19 Oct 2026 08:57:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>1. World escalation</category>
-<description>Source: 1027wbow.com</description>
+<description>- Poland: quiet — no fresh developments; Krzysztof N. (66) remains in 2-month pretrial detention.</description>
 </item>
 <item>
-<title>Catch-up (Saturday, missed by prior briefs): Romania&#x27;s F-16s shot down two jet-powered Geran attack drones inside Romanian airspace</title>
-<link>https://www.itamilradar.com/2026/10/18/romanian-f-16s-shoot-down-two-geran-drones-as-black-sea-attacks-push-closer-to-nato-territory/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-05</guid>
-<pubDate>Sun, 18 Oct 2026 08:56:00 -0500</pubDate>
+<title>Nvidia GTC Berlin starts tomorrow (Oct 20–22)</title>
+<guid isPermaLink="false">brief-2026-10-19-am-05</guid>
+<pubDate>Mon, 19 Oct 2026 08:56:00 -0500</pubDate>
 <category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: itamilradar.com</description>
+<category>2. Tech products (Apple / Nvidia / Google)</category>
+<description></description>
 </item>
 <item>
-<title>Egypt&#x27;s parliament to hold an emergency session Sunday to authorize defending Saudi Arabia if Riyadh requests it</title>
-<link>https://www.livemint.com/news/world/saudi-helicopter-crashes-near-yemeni-border-as-houthi-war-rages-11792310904739.html</link>
-<guid isPermaLink="false">brief-2026-10-18-am-06</guid>
-<pubDate>Sun, 18 Oct 2026 08:55:00 -0500</pubDate>
+<title>Siemens + Nvidia unveiled AI-driven autonomous factory tech Monday</title>
+<guid isPermaLink="false">brief-2026-10-19-am-06</guid>
+<pubDate>Mon, 19 Oct 2026 08:55:00 -0500</pubDate>
 <category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: livemint.com</description>
+<category>2. Tech products (Apple / Nvidia / Google)</category>
+<description></description>
 </item>
 <item>
-<title>Saudi-led coalition intercepted a new overnight wave</title>
-<link>https://www.morningchronicle.co.uk/Politics/788293-riyadh-skyscraper-shifts-tenants-online-as-houthi-attacks-intensify.html</link>
-<guid isPermaLink="false">brief-2026-10-18-am-07</guid>
-<pubDate>Sun, 18 Oct 2026 08:54:00 -0500</pubDate>
+<title>iPhone Duo:</title>
+<guid isPermaLink="false">brief-2026-10-19-am-07</guid>
+<pubDate>Mon, 19 Oct 2026 08:54:00 -0500</pubDate>
 <category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: morningchronicle.co.uk</description>
+<category>2. Tech products (Apple / Nvidia / Google)</category>
+<description>- Nothing major from Google or new from Apple in the window (Apple&#x27;s App Store AI-guideline ban was reported Oct 18).</description>
 </item>
 <item>
-<title>Houthi media reported Saturday that Saudi strikes killed 12 people in Yemen, including three children (unverified, single-source)</title>
-<link>https://www.morningchronicle.co.uk/Politics/788293-riyadh-skyscraper-shifts-tenants-online-as-houthi-attacks-intensify.html</link>
-<guid isPermaLink="false">brief-2026-10-18-am-08</guid>
-<pubDate>Sun, 18 Oct 2026 08:53:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: morningchronicle.co.uk</description>
-</item>
-<item>
-<title>Riyadh extended remote learning for schools by another seven days</title>
-<link>https://www.livemint.com/news/world/saudi-helicopter-crashes-near-yemeni-border-as-houthi-war-rages-11792310904739.html</link>
-<guid isPermaLink="false">brief-2026-10-18-am-09</guid>
-<pubDate>Sun, 18 Oct 2026 08:52:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: livemint.com</description>
-</item>
-<item>
-<title>US pushed back on the Hormuz shutdown narrative</title>
-<link>https://www.thehindubusinessline.com/news/world/us-says-97-of-ships-transit-strait-of-hormuz-safely-despite-iranian-attacks/article71598994.ece</link>
-<guid isPermaLink="false">brief-2026-10-18-am-10</guid>
-<pubDate>Sun, 18 Oct 2026 08:51:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: thehindubusinessline.com</description>
-</item>
-<item>
-<title>Trump at a Kentucky rally Saturday night: the Iran war will end &quot;very quickly&quot; and gas prices will drop once it does</title>
-<link>https://www.IndianEconomicObserver.com/news/trump-asserts-iran-war-will-end-very-quickly-touts-military-strikes-on-tehrans-nuclear-sites20261018055738//</link>
-<guid isPermaLink="false">brief-2026-10-18-am-11</guid>
-<pubDate>Sun, 18 Oct 2026 08:50:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: IndianEconomicObserver.com</description>
-</item>
-<item>
-<title>Samsung to build Nvidia&#x27;s next-gen memory base dies on TSMC&#x27;s 3nm (report)</title>
-<link>https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-12</guid>
-<pubDate>Sun, 18 Oct 2026 08:49:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>2. Tech products</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>DeepSeek released DeepSeek-V4.1-Flash-1017 with MIT-licensed open weights (Oct 17)</title>
-<link>https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-13</guid>
-<pubDate>Sun, 18 Oct 2026 08:48:00 -0500</pubDate>
+<title>git-ai (feder-cr/git-ai)</title>
+<guid isPermaLink="false">brief-2026-10-19-am-08</guid>
+<pubDate>Mon, 19 Oct 2026 08:53:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Open source</category>
-<description>Source: techi.com</description>
+<description></description>
 </item>
 <item>
-<title>vLLM v0.32.0 shipped</title>
-<link>https://github.com/vllm-project/vllm/releases</link>
-<guid isPermaLink="false">brief-2026-10-18-am-14</guid>
-<pubDate>Sun, 18 Oct 2026 08:47:00 -0500</pubDate>
+<title>pentagi (vxcontrol/pentagi)</title>
+<guid isPermaLink="false">brief-2026-10-19-am-09</guid>
+<pubDate>Mon, 19 Oct 2026 08:52:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Open source</category>
-<description>Source: github.com</description>
+<description></description>
 </item>
 <item>
-<title>Obsidian launched &quot;Pele,&quot; an open-source Mermaid diagram renderer</title>
-<link>https://yougonews.com/technology-news-gadgets/pele-mermaid-diagrams-as-themeable-svg/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-15</guid>
-<pubDate>Sun, 18 Oct 2026 08:46:00 -0500</pubDate>
+<title>cleanyourtv (Gathin23)</title>
+<guid isPermaLink="false">brief-2026-10-19-am-10</guid>
+<pubDate>Mon, 19 Oct 2026 08:51:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Open source</category>
-<description>Source: yougonews.com</description>
+<description></description>
 </item>
 <item>
-<title>LiteLLM v1.106.0 signs all Docker images with cosign</title>
-<link>https://olud.ai/news/2026-10-18.html</link>
-<guid isPermaLink="false">brief-2026-10-18-am-16</guid>
-<pubDate>Sun, 18 Oct 2026 08:45:00 -0500</pubDate>
+<title>Graphify (Graphify-Labs/graphify)</title>
+<guid isPermaLink="false">brief-2026-10-19-am-11</guid>
+<pubDate>Mon, 19 Oct 2026 08:50:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>3. Open source</category>
-<description>Source: olud.ai</description>
+<description></description>
 </item>
 <item>
-<title>Telegraf 1.40 released</title>
-<link>https://saudishopper.com.sa/en/daily-ai-roundup-october-18-2026/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-17</guid>
-<pubDate>Sun, 18 Oct 2026 08:44:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>3. Open source</category>
-<description>Source: saudishopper.com.sa</description>
-</item>
-<item>
-<title>Rust clean-room CAD/design apps trending today</title>
-<link>https://gitdiscover.org/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-18</guid>
-<pubDate>Sun, 18 Oct 2026 08:43:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>3. Open source</category>
-<description>Source: gitdiscover.org</description>
-</item>
-<item>
-<title>ConnectWise suspends Cloud Backup and takes SaaS Security/Cloud Management offline (developing — escalation of the SkyKick story)</title>
-<link>http://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html</link>
-<guid isPermaLink="false">brief-2026-10-18-am-19</guid>
-<pubDate>Sun, 18 Oct 2026 08:42:00 -0500</pubDate>
+<title>Palo Alto: suspected state actor UNC5820 used Fortinet zero-days to implant telecom gear</title>
+<guid isPermaLink="false">brief-2026-10-19-am-12</guid>
+<pubDate>Mon, 19 Oct 2026 08:49:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Cybersecurity</category>
-<description>Source: thehackernews.com</description>
+<description></description>
 </item>
 <item>
-<title>Cysic halted its crypto bridge after an unauthorized 10M CYS token mint on BNB Smart Chain (Oct 18, developing)</title>
-<link>https://tradersunion.com/news/cryptocurrency-news/show/3863236-cysic-halts-bridge-unauthorized-bnb-mint/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-20</guid>
-<pubDate>Sun, 18 Oct 2026 08:41:00 -0500</pubDate>
+<title>Context thread: the OpenAI–Hugging Face containment incident is back in discussion</title>
+<guid isPermaLink="false">brief-2026-10-19-am-13</guid>
+<pubDate>Mon, 19 Oct 2026 08:48:00 -0500</pubDate>
 <category>Morning brief</category>
 <category>4. Cybersecurity</category>
-<description>Source: tradersunion.com</description>
+<description></description>
 </item>
 <item>
-<title>Overnight ransomware CLAIMS (all unverified, tracker reports)</title>
-<link>https://qpulse.quasarcybertech.com/news/6994/ransomware-group-settra-exfiltrates-51gb-of-data-from-acclaim-companies</link>
-<guid isPermaLink="false">brief-2026-10-18-am-21</guid>
-<pubDate>Sun, 18 Oct 2026 08:40:00 -0500</pubDate>
+<title>CATCH-UP Oct 14: eight states sued OpenAI separately over ChatGPT kids&#x27; safety</title>
+<guid isPermaLink="false">brief-2026-10-19-am-14</guid>
+<pubDate>Mon, 19 Oct 2026 08:47:00 -0500</pubDate>
 <category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: qpulse.quasarcybertech.com</description>
+<category>5. Major court cases</category>
+<description></description>
 </item>
 <item>
-<title>New practical write-up on AhsayCBS exploitation (Oct 18)</title>
-<link>http://dev.to/bianliang/ahsaycbs-cve-2026-105134-a-backup-console-that-executes-what-a-stranger-sends-4e5e</link>
-<guid isPermaLink="false">brief-2026-10-18-am-22</guid>
-<pubDate>Sun, 18 Oct 2026 08:39:00 -0500</pubDate>
+<title>Russell Brand trial: third complainant&#x27;s evidence played Monday</title>
+<guid isPermaLink="false">brief-2026-10-19-am-15</guid>
+<pubDate>Mon, 19 Oct 2026 08:46:00 -0500</pubDate>
 <category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: dev.to</description>
+<category>5. Major court cases</category>
+<description></description>
 </item>
 <item>
-<title>New deep-dive FAQ on the Nextcloud/Collabora CVE-2026-110447 exploitation wave (ongoing)</title>
-<link>https://tech-insider.org/nextcloud-collabora-vulnerability-cve-2026-110447/</link>
-<guid isPermaLink="false">brief-2026-10-18-am-23</guid>
-<pubDate>Sun, 18 Oct 2026 08:38:00 -0500</pubDate>
+<title>Netanyahu trial:</title>
+<guid isPermaLink="false">brief-2026-10-19-am-16</guid>
+<pubDate>Mon, 19 Oct 2026 08:45:00 -0500</pubDate>
 <category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: tech-insider.org</description>
+<category>5. Major court cases</category>
+<description></description>
 </item>
 <item>
-<title>1. Missiles hit Aden airport; coalition intercepts ballistic missile headed for Saudi oil hub Yanbu</title>
-<link>https://www.reuters.com/world/middle-east/missiles-hit-aden-airport-saudi-led-coalition-intercepts-missile-headed-yanbu-2026-10-16/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-01</guid>
-<pubDate>Fri, 16 Oct 2026 22:00:00 -0500</pubDate>
+<title>FTC v. Amazon Prime:</title>
+<guid isPermaLink="false">brief-2026-10-19-am-17</guid>
+<pubDate>Mon, 19 Oct 2026 08:44:00 -0500</pubDate>
+<category>Morning brief</category>
+<category>5. Major court cases</category>
+<description></description>
+</item>
+<item>
+<title>Zelensky&#x27;s Sunday tally: Russia hit Ukrainian energy 76 times since Trump&#x27;s ceasefire announcement</title>
+<guid isPermaLink="false">brief-2026-10-18-2200-01</guid>
+<pubDate>Sun, 18 Oct 2026 22:00:00 -0500</pubDate>
 <category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: reuters.com</description>
+<category>1. World escalation: Ukraine/Russia, Poland, Iran/US, Yemen/Saudi</category>
+<description></description>
 </item>
 <item>
-<title>2. France begins deploying military assets to Saudi Arabia to guard energy infrastructure</title>
-<link>https://viewsnewsnow.com/france-sends-air-defenses-to-shield-saudi-energy-sites-as-houthi-strikes-persist/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-02</guid>
-<pubDate>Fri, 16 Oct 2026 21:59:00 -0500</pubDate>
+<title>Trump added a diesel-markets framing Sunday:</title>
+<guid isPermaLink="false">brief-2026-10-18-2200-02</guid>
+<pubDate>Sun, 18 Oct 2026 21:59:00 -0500</pubDate>
 <category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: viewsnewsnow.com</description>
+<category>1. World escalation: Ukraine/Russia, Poland, Iran/US, Yemen/Saudi</category>
+<description></description>
 </item>
 <item>
-<title>3. WSJ: Iran is giving Houthis targeting and intel for Saudi attacks; IRGC officers on the ground in Yemen</title>
-<link>https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-03</guid>
-<pubDate>Fri, 16 Oct 2026 21:58:00 -0500</pubDate>
+<title>WSJ reported Putin proposed a Ukraine meeting with Trump and China&#x27;s Xi Jinping — excluding Zelensky</title>
+<guid isPermaLink="false">brief-2026-10-18-2200-03</guid>
+<pubDate>Sun, 18 Oct 2026 21:58:00 -0500</pubDate>
 <category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: wsj.com</description>
+<category>1. World escalation: Ukraine/Russia, Poland, Iran/US, Yemen/Saudi</category>
+<description></description>
 </item>
 <item>
-<title>4. Iran formally denies backing Houthi attacks, offers to mediate</title>
-<link>https://www.thenews.pk/story/1443359-iran-rejects-saudi-accusation-of-fuelling-houthi-escalation-as-attacks-target-kingdom-yemen</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-04</guid>
-<pubDate>Fri, 16 Oct 2026 21:57:00 -0500</pubDate>
+<title>GCC foreign ministers met in Manama Sunday, condemned Houthi attacks on Saudi Arabia, and invoked the GCC joint defence pact</title>
+<guid isPermaLink="false">brief-2026-10-18-2200-04</guid>
+<pubDate>Sun, 18 Oct 2026 21:57:00 -0500</pubDate>
 <category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: thenews.pk</description>
+<category>1. World escalation: Ukraine/Russia, Poland, Iran/US, Yemen/Saudi</category>
+<description></description>
 </item>
 <item>
-<title>5. Houthis hit Yemen&#x27;s presidential palace in Aden — 5 killed, 16 wounded (Thu)</title>
-<link>https://www.cnn.com/2026/10/15/middleeast/yemeni-houthi-strikes-on-aden-presidential-palace-kill-two-latam-intl?cid=external-feeds_iluminar_meta</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-05</guid>
-<pubDate>Fri, 16 Oct 2026 21:56:00 -0500</pubDate>
+<title>Riyadh&#x27;s 99-story Kingdom Centre ordered all office staff to mandatory remote work until further notice</title>
+<guid isPermaLink="false">brief-2026-10-18-2200-05</guid>
+<pubDate>Sun, 18 Oct 2026 21:56:00 -0500</pubDate>
 <category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: cnn.com</description>
-</item>
-<item>
-<title>6. UK widens travel advice: against all but essential travel to all of Saudi Arabia</title>
-<link>https://www.thetraveler.org/uk-issues-saudi-arabia-travel-warning-after-airport-attacks/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-06</guid>
-<pubDate>Fri, 16 Oct 2026 21:55:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: thetraveler.org</description>
-</item>
-<item>
-<title>7. CENTCOM chief: blockade stopped $25B in Iranian oil exports; Axios says White House paused strikes on Iranian launchers pre-midterms</title>
-<link>https://www.newsmax.com/newsfront/cooper-iran-irgc/2026/10/16/id/1273072</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-07</guid>
-<pubDate>Fri, 16 Oct 2026 21:54:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: newsmax.com</description>
-</item>
-<item>
-<title>8. Iran is getting some LPG and jet fuel past the US blockade via small-ship transfers</title>
-<link>https://www.reuters.com/business/energy/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows-2026-10-16/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-08</guid>
-<pubDate>Fri, 16 Oct 2026 21:53:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>9. Ukraine drone strike on Gazprom&#x27;s Surgut plant, ~2,400 km from the border (partially confirmed)</title>
-<link>https://www.jfeed.com/latest-news/fire-reported-at-gazprom-plant-in-surgut-after-alleged-drone-strike-55396</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-09</guid>
-<pubDate>Fri, 16 Oct 2026 21:52:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: jfeed.com</description>
-</item>
-<item>
-<title>10. Poland scrambled jets again as Russia struck near the NATO border; Bulgaria asked NATO for help</title>
-<link>https://britbrief.co.uk/weather/air/poland-scrambles-jets-as-russia-strikes-ukraine-near-nato-border.html</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-10</guid>
-<pubDate>Fri, 16 Oct 2026 21:51:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: britbrief.co.uk</description>
-</item>
-<item>
-<title>11. Hundreds of British troops to deploy to Poland next month to rehearse a post-ceasefire Ukraine mission</title>
-<link>https://particle.news/story/hundreds-of-british-troops-to-rehearse-postceasefire-mission-in-poland</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-11</guid>
-<pubDate>Fri, 16 Oct 2026 21:50:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: particle.news</description>
-</item>
-<item>
-<title>12. Germany warns Europe is &quot;in Iran&#x27;s crosshairs&quot;</title>
-<link>https://terrormonitor.com/post/germany-warns-europe-is-in-irans-crosshairs-vows-to-counter-tehrans-hostile-activities</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-12</guid>
-<pubDate>Fri, 16 Oct 2026 21:49:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🌍 World escalation</category>
-<description>Source: terrormonitor.com</description>
-</item>
-<item>
-<title>1. Jack Henry becomes first core banking provider to integrate Google Cloud Universal Ledger for tokenized deposits</title>
-<link>https://www.morningstar.com/news/pr-newswire/20261016cg74278/jack-henry-expands-collaboration-with-google-cloud-to-deliver-tokenized-deposits-for-banks-and-credit-unions</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-13</guid>
-<pubDate>Fri, 16 Oct 2026 21:48:00 -0500</pubDate>
-<category>Night brief</category>
-<category>📱 Tech products (Apple, Nvidia, Google — major launches only)</category>
-<description>Source: morningstar.com</description>
-</item>
-<item>
-<title>2. CNN signs multi-year AI partnership with Google (developing — single outlet so far)</title>
-<link>https://www.advanced-television.com/2026/10/16/cnn-signs-ai-partnership-with-google/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-14</guid>
-<pubDate>Fri, 16 Oct 2026 21:47:00 -0500</pubDate>
-<category>Night brief</category>
-<category>📱 Tech products (Apple, Nvidia, Google — major launches only)</category>
-<description>Source: advanced-television.com</description>
-</item>
-<item>
-<title>3. Google Meet starts using post-quantum cryptography</title>
-<link>http://workspaceupdates.googleblog.com/2026/10/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-15</guid>
-<pubDate>Fri, 16 Oct 2026 21:46:00 -0500</pubDate>
-<category>Night brief</category>
-<category>📱 Tech products (Apple, Nvidia, Google — major launches only)</category>
-<description>Source: workspaceupdates.googleblog.com</description>
-</item>
-<item>
-<title>1. Reflection releases Beam open weights under Apache 2.0</title>
-<link>https://www.unite.ai/reflection-releases-beams-open-weights-under-apache-2-0-license/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-16</guid>
-<pubDate>Fri, 16 Oct 2026 21:45:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🧑‍💻 Open source</category>
-<description>Source: unite.ai</description>
-</item>
-<item>
-<title>2. Shelly ALPM 3.1.7 ships RLPM — a native Zig rewrite of Arch&#x27;s libalpm</title>
-<link>https://www.linuxcompatible.org/story/shelly-alpm-317-ships-rlpm-a-native-zig-rewrite-of-archs-libalpm/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-17</guid>
-<pubDate>Fri, 16 Oct 2026 21:44:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🧑‍💻 Open source</category>
-<description>Source: linuxcompatible.org</description>
-</item>
-<item>
-<title>3. ArtCraft explosion — update on the previously covered project</title>
-<link>https://techno360.in/artcraft-free-photoshop-office-alternatives/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-18</guid>
-<pubDate>Fri, 16 Oct 2026 21:43:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🧑‍💻 Open source</category>
-<description>Source: techno360.in</description>
-</item>
-<item>
-<title>1. California Department of Education breach — millions of students&#x27; data stolen via ETS contractor</title>
-<link>https://www.reuters.com/world/us/hacker-gets-data-millions-california-students-state-education-department-says-2026-10-17/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-19</guid>
-<pubDate>Fri, 16 Oct 2026 21:42:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🔒 Cybersecurity</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>2. Zurich + Swiss Post pension funds confirmed hit in PK Softech supply-chain breach</title>
-<link>https://thegenevatimes.ch/cyber-attackers-hit-zurich-and-swiss-post-pension-funds/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-20</guid>
-<pubDate>Fri, 16 Oct 2026 21:41:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🔒 Cybersecurity</category>
-<description>Source: thegenevatimes.ch</description>
-</item>
-<item>
-<title>3. UK Legal Aid Agency breach scope widens — ~250,000 pre-2007 records, one file from 1978</title>
-<link>https://tech-insider.org/uk-legal-aid-agency-hack-scope-widens-2026/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-21</guid>
-<pubDate>Fri, 16 Oct 2026 21:40:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🔒 Cybersecurity</category>
-<description>Source: tech-insider.org</description>
-</item>
-<item>
-<title>4. India&#x27;s CERT-In: AI agents under test broke into Indian firms&#x27; live systems undetected</title>
-<link>https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-22</guid>
-<pubDate>Fri, 16 Oct 2026 21:39:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🔒 Cybersecurity</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>5. ZoneMinder 1.38.3 patches critical unauthenticated OS command injection (CVE-2026-102608, CVSS 9)</title>
-<link>https://www.thehackerwire.com/vulnerability/CVE-2026-102608/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-23</guid>
-<pubDate>Fri, 16 Oct 2026 21:38:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🔒 Cybersecurity</category>
-<description>Source: thehackerwire.com</description>
-</item>
-<item>
-<title>6. Ransomware claims, all unverified:</title>
-<link>https://qpulse.quasarcybertech.com/news/6934/redact-ransomware-group-claims-attack-on-parker-hannifin-corporation-with-10-9-tb-data-exfiltration</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-24</guid>
-<pubDate>Fri, 16 Oct 2026 21:37:00 -0500</pubDate>
-<category>Night brief</category>
-<category>🔒 Cybersecurity</category>
-<description>Source: qpulse.quasarcybertech.com</description>
-</item>
-<item>
-<title>1. New Mexico judge throws out child-sexual-assault indictment against Timothy Busfield</title>
-<link>https://www.reuters.com/world/judge-dismisses-indictment-against-actor-timothy-busfield-sexual-assault-charges-2026-10-16/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-25</guid>
-<pubDate>Fri, 16 Oct 2026 21:36:00 -0500</pubDate>
-<category>Night brief</category>
-<category>⚖️ Major court cases</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>2. Russell Brand rape trial — prosecution opens in London</title>
-<link>https://thebulrushes.com/2026/10/16/russell-brand-on-trial-prosecutors-call-comedian-a-ruthless-sexual-predator/</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-26</guid>
-<pubDate>Fri, 16 Oct 2026 21:35:00 -0500</pubDate>
-<category>Night brief</category>
-<category>⚖️ Major court cases</category>
-<description>Source: thebulrushes.com</description>
-</item>
-<item>
-<title>3. Norwegian teen sentenced to 20 years in UK for Iran-linked murder-for-hire plot</title>
-<link>https://www.reflector.com/news/national/norwegian-teen-sentenced-to-20-years-in-prison-for-plotting-murder-in-uk-for-iran/article_4d774e6c-8a00-5588-83e9-4f15d81d8823.html</link>
-<guid isPermaLink="false">brief-2026-10-16-2200-27</guid>
-<pubDate>Fri, 16 Oct 2026 21:34:00 -0500</pubDate>
-<category>Night brief</category>
-<category>⚖️ Major court cases</category>
-<description>Source: reflector.com</description>
-</item>
-<item>
-<title>Russian drones kill 3 across Ukraine overnight, cut power to ~370,000</title>
-<link>https://www.reuters.com/world/europe/russian-drones-kill-3-people-ukraine-cut-power-hundreds-thousands-2026-10-16/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-01</guid>
-<pubDate>Fri, 16 Oct 2026 09:00:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>Reuters: the White House directly ordered Ukraine&#x27;s Starshield restrictions</title>
-<link>https://www.fdd.org/overnight-brief/october-16-2026/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-02</guid>
-<pubDate>Fri, 16 Oct 2026 08:59:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: fdd.org</description>
-</item>
-<item>
-<title>Trump called Ukrainian refinery strikes &quot;a disgrace&quot; in a Newsmax interview</title>
-<link>https://www.moneyweb.co.za/news-fast-news/zelenskyy-orders-new-russia-refinery-attacks-in-trump-rebuke/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-03</guid>
-<pubDate>Fri, 16 Oct 2026 08:58:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: moneyweb.co.za</description>
-</item>
-<item>
-<title>Trump: US &quot;may have to&quot; strike Iran&#x27;s Pickaxe Mountain</title>
-<link>https://www.reuters.com/world/trump-says-us-may-need-strike-irans-pickaxe-mountain-2026-10-16/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-04</guid>
-<pubDate>Fri, 16 Oct 2026 08:57:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>Putin decreed local assets of French, German, Swedish, Dutch companies placed under temporary management</title>
-<link>https://www.fdd.org/overnight-brief/october-16-2026/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-05</guid>
-<pubDate>Fri, 16 Oct 2026 08:56:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: fdd.org</description>
-</item>
-<item>
-<title>Russia claims 644 Ukrainian drones shot down overnight across 26 regions</title>
-<link>https://swedenherald.com/article/russia-claims-it-shot-down-644-ukrainian-drones-overnight-across-26-regions</link>
-<guid isPermaLink="false">brief-2026-10-16-am-06</guid>
-<pubDate>Fri, 16 Oct 2026 08:55:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: swedenherald.com</description>
-</item>
-<item>
-<title>Coalition: Houthis attempted dozens of attacks on Saudi airports, ports, oil facilities</title>
-<link>https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attempted-attack-dozens-saudi-facilities-2026-10-15/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-07</guid>
-<pubDate>Fri, 16 Oct 2026 08:54:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>Hormuz: Iran claims another &quot;violating&quot; tanker caught fire east of the strait</title>
-<link>https://winnebanews.com/2026/10/16/iran-says-strait-of-hormuz-will-reopen-if-u-s-leaves-the-region/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-08</guid>
-<pubDate>Fri, 16 Oct 2026 08:53:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: winnebanews.com</description>
-</item>
-<item>
-<title>France Aubagne school shooting: second teen arrested</title>
-<link>https://www.rivieraradio.mc/article/second-teenager-detained-as-anti-terrorism-investigation-widens-5HjdjzD_2/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-09</guid>
-<pubDate>Fri, 16 Oct 2026 08:52:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>1. World escalation</category>
-<description>Source: rivieraradio.mc</description>
-</item>
-<item>
-<title>iPhone Duo preorders opened today at 5 AM PT</title>
-<link>https://appleinsider.com/articles/26/10/16/online-apple-store-goes-down-ahead-of-iphone-duo-pre-orders</link>
-<guid isPermaLink="false">brief-2026-10-16-am-10</guid>
-<pubDate>Fri, 16 Oct 2026 08:51:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>2. Tech products</category>
-<description>Source: appleinsider.com</description>
-</item>
-<item>
-<title>Nvidia RTX Spark laptops on sale worldwide TODAY</title>
-<link>https://www.unite.ai/nvidia-rtx-spark-laptops-launch-worldwide-with-local-ai-agent-support/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-11</guid>
-<pubDate>Fri, 16 Oct 2026 08:50:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>2. Tech products</category>
-<description>Source: unite.ai</description>
-</item>
-<item>
-<title>Waymo plans first Canada robotaxi service — Toronto in 2028,</title>
-<link>https://www.reuters.com/business/googles-waymo-plans-first-canada-robotaxi-service-toronto-2028-2026-10-16/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-12</guid>
-<pubDate>Fri, 16 Oct 2026 08:49:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>2. Tech products</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>Google Universal Cart went live in the US</title>
-<link>https://www.chromegeek.com/google-universal-cart-launches-us-search-gemini/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-13</guid>
-<pubDate>Fri, 16 Oct 2026 08:48:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>2. Tech products</category>
-<description>Source: chromegeek.com</description>
-</item>
-<item>
-<title>Google + Geely strategic partnership:</title>
-<link>https://www.morningstar.com/news/globe-newswire/9847354/geely-auto-group-to-offer-customers-greater-choice-through-google-built-in</link>
-<guid isPermaLink="false">brief-2026-10-16-am-14</guid>
-<pubDate>Fri, 16 Oct 2026 08:47:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>2. Tech products</category>
-<description>Source: morningstar.com</description>
-</item>
-<item>
-<title>Smart HDR Manager — free OSS Windows utility</title>
-<link>https://wccftech.com/smart-hdr-manager-is-a-free-open-source-windows-utility-that-automatically-switches-hdr-on-off-for-games-youtube-videos-and-more/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-15</guid>
-<pubDate>Fri, 16 Oct 2026 08:46:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>3. Open source</category>
-<description>Source: wccftech.com</description>
-</item>
-<item>
-<title>Muse Spark Open — Meta&#x27;s new AI research platform</title>
-<link>https://dev.to/karleeov/top-5-trending-dev-tools-tutorials-for-october-16-2026-44pl</link>
-<guid isPermaLink="false">brief-2026-10-16-am-16</guid>
-<pubDate>Fri, 16 Oct 2026 08:45:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>3. Open source</category>
-<description>Source: dev.to</description>
-</item>
-<item>
-<title>GitHub&#x27;s Spec Kit hit 1.0.0</title>
-<link>https://www.linkedin.com/company/github</link>
-<guid isPermaLink="false">brief-2026-10-16-am-17</guid>
-<pubDate>Fri, 16 Oct 2026 08:44:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>3. Open source</category>
-<description>Source: linkedin.com</description>
-</item>
-<item>
-<title>China-linked Armory Castle (UNC5221/Warp Panda) exploited a BeyondTrust zero-day (CVE-2026-102764, CVSS 9.3) in late August</title>
-<link>https://nationalcybersecurity.com/china-linked-hackers-exploited-beyondtrust-zero-day-to-take-over-remote-support-servers-hacking-cybersecurity-infosec-comptia-pentest-hacker/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-18</guid>
-<pubDate>Fri, 16 Oct 2026 08:43:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: nationalcybersecurity.com</description>
-</item>
-<item>
-<title>PwnEscape (CVE-2026-99999, CVSS 9.3): guest VMs can read host memory</title>
-<link>http://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html</link>
-<guid isPermaLink="false">brief-2026-10-16-am-19</guid>
-<pubDate>Fri, 16 Oct 2026 08:42:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: thehackernews.com</description>
-</item>
-<item>
-<title>Citizen Lab: zero-click Candiru spyware delivered via online ads (&quot;AdFection&quot;)</title>
-<link>https://www.devdiscourse.com/article/international/3993215-israeli-firm-used-online-ads-to-run-vast-spy-operation-researchers-say</link>
-<guid isPermaLink="false">brief-2026-10-16-am-20</guid>
-<pubDate>Fri, 16 Oct 2026 08:41:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: devdiscourse.com</description>
-</item>
-<item>
-<title>Ahold Delhaize: websites/apps offline for a 5th day</title>
-<link>https://www.reuters.com/business/supermarket-operator-aholds-websites-app-remain-offline-5-days-after-cyber-2026-10-16/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-21</guid>
-<pubDate>Fri, 16 Oct 2026 08:40:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>CISA federal patch deadline TODAY (Oct 16) for Ivanti Connect Secure CVE-2026-104935</title>
-<link>https://www.securitymagazine.com/articles/102655-newly-exploited-vulnerability-in-ivanti-connect-secure</link>
-<guid isPermaLink="false">brief-2026-10-16-am-22</guid>
-<pubDate>Fri, 16 Oct 2026 08:39:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: securitymagazine.com</description>
-</item>
-<item>
-<title>Proofpoint buying Varonis for $6.3B all-cash</title>
-<link>https://www.itsecuritynews.info/it-security-news-daily-summary-2026-10-15/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-23</guid>
-<pubDate>Fri, 16 Oct 2026 08:38:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: itsecuritynews.info</description>
-</item>
-<item>
-<title>Murdaugh retrial: &quot;urgent matters&quot; hearing TODAY at 10 AM ET in Lexington County</title>
-<link>https://www.greenvilleonline.com/story/news/local/south-carolina/2026/10/16/alex-murdaugh-retrial-evidence-battle-heads-to-court/92251336007/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-24</guid>
-<pubDate>Fri, 16 Oct 2026 08:37:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>5. Court cases</category>
-<description>Source: greenvilleonline.com</description>
-</item>
-<item>
-<title>Birchmore/Farwell federal murder trial — day 5 today</title>
-<link>https://www.enterprisenews.com/story/news/courts/2026/10/16/matthew-farwell-sandra-birchmore-stoughton-police-murder-trial--live/92266523007/</link>
-<guid isPermaLink="false">brief-2026-10-16-am-25</guid>
-<pubDate>Fri, 16 Oct 2026 08:36:00 -0500</pubDate>
-<category>Morning brief</category>
-<category>5. Court cases</category>
-<description>Source: enterprisenews.com</description>
-</item>
-<item>
-<title>Houthis hit Yemen&#x27;s presidential palace complex in Aden</title>
-<link>https://www.thelevantfiles.org/2026/10/breaking-live-iran-vows-to-fight-on-as.html</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-01</guid>
-<pubDate>Thu, 15 Oct 2026 17:00:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>1. World escalation</category>
-<description>Source: thelevantfiles.org</description>
-</item>
-<item>
-<title>Saudi coalition says it intercepted a cruise missile in the Medina region; Houthis deny any attacks today</title>
-<link>https://www.thelevantfiles.org/2026/10/breaking-live-iran-vows-to-fight-on-as.html</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-02</guid>
-<pubDate>Thu, 15 Oct 2026 16:59:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>1. World escalation</category>
-<description>Source: thelevantfiles.org</description>
-</item>
-<item>
-<title>NYT investigation: Saudi air defenses are struggling</title>
-<link>https://www.thelevantfiles.org/2026/10/breaking-live-iran-vows-to-fight-on-as.html</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-03</guid>
-<pubDate>Thu, 15 Oct 2026 16:58:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>1. World escalation</category>
-<description>Source: thelevantfiles.org</description>
-</item>
-<item>
-<title>US Embassy in Saudi now requires special approval for government staff to use Saudi airports</title>
-<link>https://www.thelevantfiles.org/2026/10/breaking-live-iran-vows-to-fight-on-as.html</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-04</guid>
-<pubDate>Thu, 15 Oct 2026 16:57:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>1. World escalation</category>
-<description>Source: thelevantfiles.org</description>
-</item>
-<item>
-<title>UK defense secretary to ask Hegseth about the Starshield outage</title>
-<link>https://www.washingtonexaminer.com/news/world/4767297/british-defense-secretary-ask-hegseth-starshield-outage-compromises-defense-targeting/</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-05</guid>
-<pubDate>Thu, 15 Oct 2026 16:56:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>1. World escalation</category>
-<description>Source: washingtonexaminer.com</description>
-</item>
-<item>
-<title>IEA board agreed today to speed up emergency oil and diesel stock releases</title>
-<link>https://www.reuters.com/business/energy/iea-speed-up-oil-stocks-release-including-over-20-million-barrels-of-diesel-2026-10-15/</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-06</guid>
-<pubDate>Thu, 15 Oct 2026 16:55:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>1. World escalation</category>
-<description>Source: reuters.com</description>
-</item>
-<item>
-<title>Investigation: Houthis attempting to build more advanced missiles with Chinese-sourced components</title>
-<link>https://www.thelevantfiles.org/2026/10/breaking-live-iran-vows-to-fight-on-as.html</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-07</guid>
-<pubDate>Thu, 15 Oct 2026 16:54:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>1. World escalation</category>
-<description>Source: thelevantfiles.org</description>
-</item>
-<item>
-<title>Nvidia DGX Spark 64GB arrives Oct 23, starting at $4,999</title>
-<link>https://www.technobezz.com/news/nvidia-rtx-spark-launch-events-friday</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-09</guid>
-<pubDate>Thu, 15 Oct 2026 16:52:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>2. Tech products</category>
-<description>Source: technobezz.com</description>
-</item>
-<item>
-<title>Nvidia RTX Spark launch events open tomorrow (Fri Oct 16) globally</title>
-<link>https://www.technobezz.com/news/nvidia-rtx-spark-launch-events-friday</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-10</guid>
-<pubDate>Thu, 15 Oct 2026 16:51:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>2. Tech products</category>
-<description>Source: technobezz.com</description>
-</item>
-<item>
-<title>Libreboot 26.10 &quot;Ominous Olive&quot; released today</title>
-<link>https://alobbs.com/post/2026-10-15/</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-11</guid>
-<pubDate>Thu, 15 Oct 2026 16:50:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>3. Open source</category>
-<description>Source: alobbs.com</description>
-</item>
-<item>
-<title>3mdeb Dasharo 0.9 firmware for ASRock Rack SPC741D8-2L2T</title>
-<link>https://alobbs.com/post/2026-10-15/</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-12</guid>
-<pubDate>Thu, 15 Oct 2026 16:49:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>3. Open source</category>
-<description>Source: alobbs.com</description>
-</item>
-<item>
-<title>Python Weekly #767 highlights</title>
-<link>http://www.pythonweekly.com/p/python-weekly-issue-767-october-15-2026</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-13</guid>
-<pubDate>Thu, 15 Oct 2026 16:48:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>3. Open source</category>
-<description>Source: pythonweekly.com</description>
-</item>
-<item>
-<title>Hands-on review of REA (GitHub&#x27;s #1 trending repo)</title>
-<link>https://dev.to/nazecode/i-tried-rea-the-1-trending-repo-on-github-can-ai-really-reverse-engineer-a-net-app-4apo</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-14</guid>
-<pubDate>Thu, 15 Oct 2026 16:47:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>3. Open source</category>
-<description>Source: dev.to</description>
-</item>
-<item>
-<title>Cisco SEG zero-day CVE-2026-76519 is the THIRD actively exploited SEG bug in under 12 months</title>
-<link>https://pacific.london/insights/cisco-secure-email-gateway-cve-2026-76519-zero-day-rce-root-access-patch-cisa-kev-uk-cybersecurity</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-15</guid>
-<pubDate>Thu, 15 Oct 2026 16:46:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: pacific.london</description>
-</item>
-<item>
-<title>Catch-up: the mid-September SEG zero-day (CVE-2026-76461)</title>
-<link>https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-16</guid>
-<pubDate>Thu, 15 Oct 2026 16:45:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: theregister.com</description>
-</item>
-<item>
-<title>Palo Alto PAN-OS zero-day CVE-2026-0322 confirmed exploited in the wild Oct 14</title>
-<link>https://tech-insider.org/palo-alto-pan-os-zero-day-cve-2026-0322/</link>
-<guid isPermaLink="false">brief-2026-10-15-1700-17</guid>
-<pubDate>Thu, 15 Oct 2026 16:44:00 -0500</pubDate>
-<category>Evening brief</category>
-<category>4. Cybersecurity</category>
-<description>Source: tech-insider.org</description>
+<category>1. World escalation: Ukraine/Russia, Poland, Iran/US, Yemen/Saudi</category>
+<description></description>
 </item>
 </channel>
 </rss>
